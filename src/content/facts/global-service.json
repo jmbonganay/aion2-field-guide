@@ -281,8 +281,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:51:39Z"
   },
   {
     "id": "fact:global-class-names",
@@ -308,8 +308,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null,
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:51:39Z",
     "context": "Derived from two official sources: the press release states there are eight classes, and the Oct. 13/14 patch notes name eight class-restricted weapon skins, one per class."
   }
 ]

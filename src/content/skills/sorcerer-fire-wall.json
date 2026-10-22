@@ -1,6 +1,6 @@
 {
   "region": "global",
-  "status": "in_review",
+  "status": "published",
   "aliases": [],
   "tags": [
     "sorcerer",
@@ -8,10 +8,10 @@
   ],
   "patch": null,
   "author": "Claude (AI research draft)",
-  "reviewedBy": null,
+  "reviewedBy": "jmbonganay",
   "createdAt": "2026-10-22T10:30:00Z",
   "updatedAt": "2026-10-22T10:30:00Z",
-  "lastVerifiedAt": null,
+  "lastVerifiedAt": "2026-10-22T12:51:39Z",
   "sourceIds": [
     "source:patch-notes-2026-10-14",
     "source:patch-notes-2026-10-21"

@@ -13,8 +13,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:51:39Z"
   },
   {
     "id": "fact:fire-wall-effect",
@@ -31,8 +31,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:51:39Z"
   },
   {
     "id": "fact:fire-wall-fix-elevation",
@@ -48,8 +48,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:51:39Z"
   },
   {
     "id": "fact:fire-wall-fix-overwrite",
@@ -65,8 +65,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:51:39Z"
   },
   {
     "id": "fact:fire-wall-fix-non-embers",
@@ -82,8 +82,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:51:39Z"
   },
   {
     "id": "fact:cold-storm-effect",
@@ -100,8 +100,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:51:39Z"
   },
   {
     "id": "fact:cold-storm-fix-elevation",
@@ -117,8 +117,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:51:39Z"
   },
   {
     "id": "fact:cold-storm-fix-overwrite",
@@ -134,8 +134,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:51:39Z"
   },
   {
     "id": "fact:cold-storm-fix-stacks",
@@ -151,8 +151,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:51:39Z"
   },
   {
     "id": "fact:cold-storm-fix-level",
@@ -168,8 +168,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:51:39Z"
   },
   {
     "id": "fact:cold-storm-fix-specialty",
@@ -185,8 +185,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:51:39Z"
   },
   {
     "id": "fact:bittercold-wind-effect",
@@ -202,8 +202,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:51:39Z"
   },
   {
     "id": "fact:bittercold-wind-fix-elevation",
@@ -219,7 +219,7 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:51:39Z"
   }
 ]
