@@ -69,7 +69,7 @@ tests/                    Vitest unit + content tests
 
 ## Deploying to Vercel (free Hobby plan)
 
-Not deployed yet — deployment is Phase 4 and needs the owner's own GitHub and Vercel accounts.
+Source: https://github.com/jmbonganay/aion2-field-guide (public). Vercel project `aion2-field-guide` in the owner's Hobby account is linked to it: every push to `main` deploys to production, other branches get preview deployments.
 
 1. Push this folder to a GitHub repository you own (commit `package-lock.json`).
 2. In Vercel: **Add New → Project → Import** the repository. Framework preset: **Next.js** (auto-detected). Leave build command (`npm run build`) and output settings at their defaults — Vercel handles `output: 'export'`. Node.js version: 20.x or later.

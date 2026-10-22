@@ -1,0 +1,44 @@
+name: Correction
+description: Report an inaccurate or outdated claim on the AION 2 Field Guide.
+title: "[Correction] "
+labels: [correction]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep the guide accurate. This is an unofficial fan site; corrections are reviewed by the maintainer but the tracker is not monitored continuously. Please don't include account details or personal information.
+  - type: input
+    id: page
+    attributes:
+      label: Page URL
+      placeholder: https://…/dungeons/krao-cave/
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: The claim that is wrong
+      description: Quote or describe the exact statement.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Your evidence
+      description: A link to an official source, or a description of a screenshot/in-game observation (you can attach images).
+    validations:
+      required: true
+  - type: dropdown
+    id: region
+    attributes:
+      label: Region
+      options: [Global, Korea (KR), Taiwan (TW), Not sure]
+    validations:
+      required: true
+  - type: input
+    id: patch
+    attributes:
+      label: Patch / date you checked
+      placeholder: e.g. after the Oct. 20 (PDT) / Oct. 21 (CEST) update, checked 2026-10-23
+    validations:
+      required: true

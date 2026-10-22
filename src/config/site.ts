@@ -14,7 +14,7 @@ export const site = {
    * user-owned repository exists; the UI then explains how corrections work
    * without linking anywhere.
    */
-  correctionsUrl: null as string | null,
+  correctionsUrl: 'https://github.com/jmbonganay/aion2-field-guide/issues/new?template=correction.yml' as string | null,
   editorialFocus: 'Sorcerer',
   disclaimer:
     'This is an independent, unofficial AION 2 fan-made guide. AION 2 and related names, marks and artwork belong to their respective owners. This site is not endorsed by or affiliated with NCSOFT. In-game information may change with updates; please verify important details in the game and official announcements.',
