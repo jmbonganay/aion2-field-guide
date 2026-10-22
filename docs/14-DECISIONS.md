@@ -12,7 +12,7 @@
 | ADR-008 | Accepted | No visitor analytics, auth, user uploads | Privacy and free infrastructure simplicity |
 | ADR-009 | Accepted | Single-language English for MVP | Keep scope focused; other locales later |
 | ADR-010 | Provisional | Use CSS/SVG, system fonts initially | Revisit design font/license options later |
-| ADR-011 | Open | Precise public launch name + domain | Finalize after initial design review |
+| ADR-011 | Open | Precise public launch name + domain (currently `aion2-field-guide-liart.vercel.app`) | Finalize after initial design review |
 | ADR-012 | Open | Who performs human source review | Must be assigned before factual publication |
 | ADR-013 | Open | Whether external images have licensed usage | Do not use unless verified |
 | ADR-014 | Open | Future monetization | Requires review of hosting terms and legal implications |
@@ -36,6 +36,7 @@
 | ADR-032 | Accepted (Phase 3) | Share image committed as `public/og/field-guide.png` (rendered by `scripts/generate-og.tsx`) instead of the `opengraph-image` route | The route exported an extension-less file and page-level `openGraph` dropped it; an explicit PNG is portable to any static host |
 | ADR-033 | Accepted (Phase 3) | Project moved out of iCloud Drive to `~/Developer/`, Desktop path kept as a symlink | iCloud duplicated files inside build/dependency folders; `.nosync` symlinks break Turbopack's dependency detection |
 | ADR-034 | Accepted (Phase 3) | The AI author does not act as reviewer, even with owner permission; an automated second-pass fact check is recorded instead | Policy requires a reviewer other than the text generator; a false "Verified" label would defeat the site's purpose |
+| ADR-035 | Accepted (Phase 4) | Public GitHub repo `jmbonganay/aion2-field-guide` linked to Vercel project `aion2-field-guide` (Hobby); production = `main`, URL `aion2-field-guide-liart.vercel.app` | Push-to-deploy with no paid features; corrections via the repo's Issues form. Live checks 2026-10-22: all routes 200, drafts/dev routes 404, Lighthouse mobile 100/100/100/100 |
 
 ## Operating assumption
 All requirements are defaults chosen to let implementation start now without needing approval for every small choice. If an unresolvable conflict blocks accuracy, build infrastructure and report the blocker rather than guessing.

@@ -1,6 +1,7 @@
 # AION 2 Field Guide
 
 > **Working title:** AION 2 Field Guide (change before launch if desired)  
+> **Live:** https://aion2-field-guide-liart.vercel.app · **Source:** https://github.com/jmbonganay/aion2-field-guide  
 > **Project type:** Unofficial, free, non-commercial, read-only fansite  
 > **Prepared:** 2026-10-22  
 > **Status:** Phase 2 (editorial system + Sorcerer MVP) implemented. Six source-backed pages are drafted `in_review` and await **human** sign-off; nothing is published until a reviewer approves it. NOT a verified game-item database.
@@ -69,7 +70,7 @@ tests/                    Vitest unit + content tests
 
 ## Deploying to Vercel (free Hobby plan)
 
-Source: https://github.com/jmbonganay/aion2-field-guide (public). Vercel project `aion2-field-guide` in the owner's Hobby account is linked to it: every push to `main` deploys to production, other branches get preview deployments.
+Live at **https://aion2-field-guide-liart.vercel.app** (the plain `aion2-field-guide.vercel.app` name belongs to another account). Source: https://github.com/jmbonganay/aion2-field-guide (public). The Vercel project `aion2-field-guide` (owner's Hobby account) is linked to it: every push to `main` deploys to production; other branches get preview deployments. Canonicals, sitemap and robots use `VERCEL_PROJECT_PRODUCTION_URL` automatically — set `NEXT_PUBLIC_SITE_URL` only if you add a custom domain.
 
 1. Push this folder to a GitHub repository you own (commit `package-lock.json`).
 2. In Vercel: **Add New → Project → Import** the repository. Framework preset: **Next.js** (auto-detected). Leave build command (`npm run build`) and output settings at their defaults — Vercel handles `output: 'export'`. Node.js version: 20.x or later.
