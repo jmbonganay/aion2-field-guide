@@ -13,8 +13,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:33Z"
   },
   {
     "id": "fact:lore-factions",
@@ -35,8 +35,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:33Z"
   },
   {
     "id": "fact:lore-tower",
@@ -52,8 +52,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null,
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:33Z",
     "context": "The press release calls it the Tower of Eternity; the teaser’s Lore section calls it the AION Tower."
   },
   {
@@ -70,8 +70,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:33Z"
   },
   {
     "id": "fact:lore-bulwark-asmodian",
@@ -87,8 +87,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:33Z"
   },
   {
     "id": "fact:lore-sacrifice",
@@ -104,8 +104,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:33Z"
   },
   {
     "id": "fact:lore-dragon-lords",
@@ -124,8 +124,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:33Z"
   },
   {
     "id": "fact:lore-daeva",
@@ -141,7 +141,7 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:33Z"
   }
 ]

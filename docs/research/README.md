@@ -133,3 +133,10 @@ After drafting, every cited source was re-fetched live and each fact was checked
 - **Sources evaluated and not used:** aion2.gg (robots/terms forbid bulk copying and dataset building), aion2.gaming.tools (blocks automated access; bypassing is out of policy), aion2hub.com (no terms page; data from the pre-launch Launch Scale Test client plus KR/TW client data, including a KR/TW-only class).
 - **Open:** party roles in NC's own words, full skill lists, Specialties, Stigmas, builds — need firsthand in-game evidence.
 - **Human review:** all seven approved by jmbonganay on 2026-10-22.
+
+## Ticket: six pages from remaining official sources (server transfers, servers & matchmaking, story, Urugugu Canyon, Fire Temple, Pets)
+- **Evidence:** Server Transfer Q&A, Server Transfer Products Info, Advance Notice of Server Transfer Limits, New Server and Matchmaking Information (official notices); the official teaser site's Lore, Expedition, Factions and Pet sections (text in images, read visually and paraphrased); the NC press release (setting).
+- **Checks:** 29/29 text-sourced facts matched automatically; image-sourced facts checked visually. One draft error caught and fixed before review: an Asmodian region name had been guessed from a cut-off panel ("Beluslan"); re-captured at full width, the official spelling is "Belluslan".
+- **Time-sensitive:** the server transfer guide describes the period ending at the Oct. 27 (PDT) / Oct. 28 (CET) maintenance.
+- **Not done:** boss names for Krao Cave (Ultimate Berk) and Draupnir (Transcendent Bakarma) are not yet added to those published pages (would require re-review).
+- **Human review:** all six approved by jmbonganay on 2026-10-22.

@@ -4,7 +4,7 @@
 > **Live:** https://aion2-field-guide-liart.vercel.app · **Source:** https://github.com/jmbonganay/aion2-field-guide  
 > **Project type:** Unofficial, free, non-commercial, read-only fansite  
 > **Prepared:** 2026-10-22  
-> **Status:** 13 source-backed pages published after human review by jmbonganay on 2026-10-22: all 8 Global classes, Global service basics, Krao Cave, Draupnir, Ariel Daevanion Board and Substance Morph (77 verified facts). NOT a complete game database — each page lists what is not yet verified.
+> **Status:** 19 source-backed pages published after human review by jmbonganay on 2026-10-22: all 8 Global classes; guides on Global service basics, server transfers, servers & matchmaking and the story so far; dungeons Krao Cave, Draupnir, Urugugu Canyon and Fire Temple; systems Ariel Daevanion Board, Substance Morph and Pets (122 verified facts). NOT a complete game database — each page lists what is not yet verified.
 
 ## Quick start
 

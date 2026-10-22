@@ -14,8 +14,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-where",
@@ -31,8 +31,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-cost",
@@ -52,8 +52,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-scope",
@@ -69,8 +69,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-once",
@@ -86,8 +86,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-level",
@@ -104,8 +104,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-conditions",
@@ -125,8 +125,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-blockers",
@@ -146,8 +146,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-capacity",
@@ -164,8 +164,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-name",
@@ -182,8 +182,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-kina",
@@ -200,8 +200,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-server-storage",
@@ -218,8 +218,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-quna",
@@ -236,8 +236,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-membership",
@@ -254,8 +254,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-merged",
@@ -277,8 +277,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null,
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z",
     "context": "Combined with what you already have on the destination server, and reset on the original server."
   },
   {
@@ -311,8 +311,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-reward-counts",
@@ -328,8 +328,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-left-behind",
@@ -345,8 +345,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   },
   {
     "id": "fact:st-tickets",
@@ -363,7 +363,7 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T13:50:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:56:32Z"
   }
 ]
