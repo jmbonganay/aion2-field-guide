@@ -21,7 +21,8 @@
     "content:review": "tsx scripts/review-queue.ts",
     "content:approve": "tsx scripts/approve.ts",
     "links:check": "tsx scripts/check-links.ts",
-    "og:generate": "tsx scripts/generate-og.tsx"
+    "og:generate": "tsx scripts/generate-og.tsx",
+    "content:expiry-sweep": "tsx scripts/expiry-sweep.ts"
   },
   "dependencies": {
     "@mdx-js/mdx": "3.1.1",

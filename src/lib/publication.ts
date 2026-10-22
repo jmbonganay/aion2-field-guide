@@ -103,6 +103,7 @@ export function publicationGateFailures(
     if (verified < Date.parse(record.createdAt)) failures.push('lastVerifiedAt is before createdAt');
   }
   if (Date.parse(record.updatedAt) < Date.parse(record.createdAt)) failures.push('updatedAt is before createdAt');
+  if (record.expiresAt && Date.parse(record.expiresAt) <= now.getTime()) failures.push(`expired at ${record.expiresAt} (time-limited content)`);
 
   if (record.sourceIds.length === 0) failures.push('sourceIds is empty');
   for (const sourceId of record.sourceIds) {

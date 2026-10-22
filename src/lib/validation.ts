@@ -82,6 +82,8 @@ export function validateBundle(bundle: ContentBundle, options: { now?: Date } = 
   for (const record of bundle.records) {
     checkReferences(record);
 
+    if (record.expiresAt && Date.parse(record.expiresAt) <= Date.parse(record.createdAt)) err(record.id, 'expiresAt must be after createdAt');
+
     if (record.status === 'published') {
       for (const failure of publicationGateFailures(record, bundle, { now, index })) {
         err(record.id, `cannot publish "${recordTitle(record)}": ${failure}`);
@@ -90,6 +92,9 @@ export function validateBundle(bundle: ContentBundle, options: { now?: Date } = 
         const target = bundle.records.find((r) => isRoutable(r) && hrefFor(r) === recordPathOf(path));
         if (!target) err(record.id, `body links to "${path}", which is not a known page`);
         else if (target.status !== 'published') warn(record.id, `body link to "${path}" renders as plain text until ${target.id} is published`);
+      }
+      if (record.expiresAt && Date.parse(record.expiresAt) - now.getTime() < 7 * 86_400_000) {
+        warn(record.id, `expires at ${record.expiresAt} — update or archive it before then`);
       }
       if (record.lastVerifiedAt && now.getTime() - Date.parse(record.lastVerifiedAt) > REVERIFY_AFTER_DAYS * 86_400_000) {
         warn(record.id, `last verified more than ${REVERIFY_AFTER_DAYS} days ago — schedule a re-check`);

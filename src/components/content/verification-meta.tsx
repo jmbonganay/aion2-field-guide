@@ -20,6 +20,9 @@ export function VerificationMeta({ record, sourceCount }: { record: ContentRecor
       ),
     },
     { term: 'Updated', value: <time dateTime={record.updatedAt}>{formatDate(record.updatedAt)}</time> },
+    ...(record.expiresAt
+      ? [{ term: 'Valid until', value: <time dateTime={record.expiresAt}>{formatDate(record.expiresAt)} (UTC)</time> }]
+      : []),
     { term: 'Reviewed by', value: record.reviewedBy ?? <span className="text-subtle">Not reviewed</span> },
     { term: 'Sources', value: <span className="tabular">{sourceCount}</span> },
   ];

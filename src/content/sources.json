@@ -264,5 +264,40 @@
     "retrievedAt": "2026-10-22T13:50:00Z",
     "scope": "Single-faction servers, server pairing for cross-faction content, server selection order and the official server list.",
     "notes": "The server list is continuously updated by NC; this site links it instead of copying it."
+  },
+  {
+    "id": "source:team-update-monetization",
+    "title": "Team Update — how monetization works in AION 2 Global",
+    "url": "https://aion2.plaync.com/en-us/board/notice/view?articleId=6a4d7d47a729ca5877f5e1ef",
+    "publisher": "NC (official AION 2 Global website)",
+    "grade": "official",
+    "region": "global",
+    "publishedAt": "2026-07-08",
+    "retrievedAt": "2026-10-22T14:25:00Z",
+    "scope": "Free-to-play model, Kina and Quna, the Market, the Kina↔Quna Exchange, Membership, the in-game shop and the Battle Pass.",
+    "notes": "Pre-launch post linked from the Launch FAQ as the monetization overview. Content is an image; read visually and paraphrased."
+  },
+  {
+    "id": "source:daeva-pass-notice",
+    "title": "9/30 (Wed) New Product Info (Daeva Pass)",
+    "url": "https://aion2.plaync.com/en-us/board/notice/view?articleId=6abbb27d71f8fb7c2a7a32a9",
+    "publisher": "NC (official AION 2 Global website)",
+    "grade": "official",
+    "region": "global",
+    "publishedAt": "2026-09-30",
+    "retrievedAt": "2026-10-22T14:25:00Z",
+    "scope": "Daeva Pass products, prices, levels, EXP sources, limits and deadlines."
+  },
+  {
+    "id": "source:producer-letter",
+    "title": "AION 2 Producer’s Letter: Welcome to Atreia!",
+    "url": "https://aion2.plaync.com/en-us/board/notice/view?articleId=6ac95cd8d97eae18cc40e3d7",
+    "publisher": "NC (official AION 2 Global website)",
+    "grade": "official",
+    "region": "global",
+    "publishedAt": "2026-10-10",
+    "retrievedAt": "2026-10-22T14:25:00Z",
+    "scope": "Launch-week update: zero-queue policy, server transfers, cross-server matchmaking for Expedition and Transcendence.",
+    "notes": "Content is an image; read visually and paraphrased."
   }
 ]

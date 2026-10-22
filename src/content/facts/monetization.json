@@ -1,0 +1,239 @@
+[
+  {
+    "id": "fact:mon-free",
+    "subjectId": "guide:membership-and-currencies",
+    "property": "freeToPlay",
+    "value": "Free to play, with no purchase required",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:team-update-monetization",
+      "source:launch-faq"
+    ],
+    "evidence": "Team Update › 1 Free to Play; Launch FAQ.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:mon-kina",
+    "subjectId": "guide:membership-and-currencies",
+    "property": "kina",
+    "value": "The Market’s currency, earned through gameplay",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:team-update-monetization"
+    ],
+    "evidence": "Team Update › 2 Currency › Kina.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:mon-quna",
+    "subjectId": "guide:membership-and-currencies",
+    "property": "quna",
+    "value": "The premium currency: buys shop items, unlocks the Battle Pass, and buys Kina on the Exchange",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:team-update-monetization"
+    ],
+    "evidence": "Team Update › 2 Currency › Quna.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:mon-market",
+    "subjectId": "guide:membership-and-currencies",
+    "property": "market",
+    "value": "The player-driven marketplace: players buy and sell items for Kina at prices players set",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:team-update-monetization"
+    ],
+    "evidence": "Team Update › 3 The Market.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:mon-exchange",
+    "subjectId": "guide:membership-and-currencies",
+    "property": "kinaQunaExchange",
+    "value": "Players trade Kina and Quna with each other — one lists Kina, another buys it with Quna; the game itself lists and buys nothing",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:team-update-monetization"
+    ],
+    "evidence": "Team Update › 4 Kina ↔ Quna Exchange.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:mon-exchange-quna",
+    "subjectId": "guide:membership-and-currencies",
+    "property": "exchangeQunaUse",
+    "value": "Quna bought on the Exchange can be spent on anything sold for Quna, including the Battle Pass",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:team-update-monetization"
+    ],
+    "evidence": "Team Update › 4 Kina ↔ Quna Exchange; 7 Battle Pass › Premium Track.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:mon-membership-required",
+    "subjectId": "guide:membership-and-currencies",
+    "property": "membershipRequiredForMarket",
+    "value": "An active Membership is required to trade on the Market",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:team-update-monetization",
+      "source:launch-faq"
+    ],
+    "evidence": "Team Update › 3 The Market and 4 Exchange (note boxes); Launch FAQ › monetization.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:mon-membership-price",
+    "subjectId": "guide:membership-and-currencies",
+    "property": "membershipPrice",
+    "value": "$15 per month",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:team-update-monetization"
+    ],
+    "evidence": "Team Update › 5 Membership (price box).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Price as stated in NC’s pre-launch overview; check the in-game shop for your store’s current price."
+  },
+  {
+    "id": "fact:mon-membership-benefits",
+    "subjectId": "guide:membership-and-currencies",
+    "property": "membershipBenefits",
+    "value": [
+      "Unlocks the Market",
+      "Unlocks the Kina ↔ Quna Exchange",
+      "Additional gameplay benefits for members",
+      "A special shop with extra purchases for Kina"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:team-update-monetization"
+    ],
+    "evidence": "Team Update › 5 Membership.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:mon-cosmetics",
+    "subjectId": "guide:membership-and-currencies",
+    "property": "shopCosmetics",
+    "value": "Purely cosmetic, with no gameplay or combat advantage: outfits, wings, pets, weapon skins and accessories",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:team-update-monetization"
+    ],
+    "evidence": "Team Update › 6 In-Game Shop › Cosmetics.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:mon-consumables",
+    "subjectId": "guide:membership-and-currencies",
+    "property": "shopConsumables",
+    "value": "Potions, resurrection stones and similar items help in combat but don’t affect gear progression or long-term power, and can also be earned in normal play",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:team-update-monetization"
+    ],
+    "evidence": "Team Update › 6 In-Game Shop › Consumables.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:mon-battle-pass",
+    "subjectId": "guide:membership-and-currencies",
+    "property": "battlePass",
+    "value": "Battle Passes (Daeva Passes) are sold per character and give cosmetics, items, upgrade materials and other currencies; a standard track is open to all, and an optional premium track is bought with Quna",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:team-update-monetization"
+    ],
+    "evidence": "Team Update › 7 Battle Pass.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:mon-transfer",
+    "subjectId": "guide:membership-and-currencies",
+    "property": "membershipInServerTransfer",
+    "value": "In a server transfer, Membership moves with you and is combined with any Membership on the destination server",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products"
+    ],
+    "evidence": "Server transfer products notice › Purchase-Related Items.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  }
+]

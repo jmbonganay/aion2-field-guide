@@ -2,8 +2,14 @@
 
 This is an **implementation project** for an unofficial AION 2 companion site. All planning specs are in `docs/`.
 
+## Current status (2026-10-22)
+- Phases 1–4 complete: static site live at https://aion2-field-guide-liart.vercel.app, source https://github.com/jmbonganay/aion2-field-guide (push to `main` deploys).
+- Human reviewer for publication: **jmbonganay**. The AI author never approves its own drafts; drafts go to `in_review` and are approved with `npm run content:approve`.
+- Weekly duty: add new official patch notes to `src/content/patches/` and re-verify affected pages. Time-limited pages use `expiresAt` (hourly expiry sweep in GitHub Actions).
+- Launch QA evidence: `docs/15-LAUNCH-SIGNOFF.md`. Research notes: `docs/research/README.md`.
+
 ## Operating mode
-- Build one approved phase at a time. Initial instruction: **Phase 1 — Technical Foundation** only.
+- Build one approved phase at a time (Phase 5 — expand content and tools — is ongoing, scoped per request).
 - Before coding, inspect repository files, report the intended changes briefly, and confirm the required tools already available locally; do not request paid accounts.
 - If project folder contains only these docs, create the Next.js project IN THIS FOLDER while preserving all planning Markdown files.
 - Read `AGENTS.md` first and honor every publishing/accuracy gate.

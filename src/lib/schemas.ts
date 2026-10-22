@@ -155,6 +155,11 @@ const recordBase = {
   sourceIds: z.array(namespacedId('source')).default([]),
   factIds: z.array(namespacedId('fact')).default([]),
   relatedIds: z.array(recordRefSchema).default([]),
+  /**
+   * Time-limited content (events, passes, transfer periods). From this moment
+   * the record fails the publication gate and drops out of the next build.
+   */
+  expiresAt: isoUtcSchema.nullable().default(null),
   /** Open questions the author could not resolve from sources. Shown to readers. */
   unverified: z.array(z.string().min(1)).default([]),
   designFixture: designFixtureField,

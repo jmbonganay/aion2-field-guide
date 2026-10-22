@@ -111,3 +111,13 @@ describe('public updates', () => {
     expect(publicUpdates(none, { now: NOW })).toEqual([]);
   });
 });
+
+describe('time-limited content', () => {
+  it('drops a published record once expiresAt has passed', () => {
+    const live = bundleOf({ sources: [source()], records: [guide({ expiresAt: '2026-10-23T00:00:00Z' })] });
+    expect(selectAllPublished(live, { now: NOW })).toHaveLength(1);
+    const gone = bundleOf({ sources: [source()], records: [guide({ expiresAt: '2026-10-22T11:00:00Z' })] });
+    expect(publicationGateFailures(gone.records[0]!, gone, { now: NOW })).toContain('expired at 2026-10-22T11:00:00Z (time-limited content)');
+    expect(selectAllPublished(gone, { now: NOW })).toEqual([]);
+  });
+});

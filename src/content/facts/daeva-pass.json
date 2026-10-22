@@ -1,0 +1,243 @@
+[
+  {
+    "id": "fact:dp-names",
+    "subjectId": "guide:daeva-pass-season-1",
+    "property": "passNames",
+    "value": [
+      "Dawn Legion (Elyos)",
+      "Ishalgen Mercenary (Asmodians)"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:daeva-pass-notice"
+    ],
+    "evidence": "Daeva Pass notice › 1. Daeva Pass: Dawn Legion / Ishalgen Mercenary.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:dp-where",
+    "subjectId": "guide:daeva-pass-season-1",
+    "property": "whereToBuy",
+    "value": "In-Game Menu > Subscribe",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:daeva-pass-notice"
+    ],
+    "evidence": "Daeva Pass notice › Available at.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:dp-period",
+    "subjectId": "guide:daeva-pass-season-1",
+    "property": "salesPeriod",
+    "value": "September 30, 2026 (06:00 PDT) until December 15, 2026 (23:00 PST)",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:daeva-pass-notice"
+    ],
+    "evidence": "Daeva Pass notice › Sales Period.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:dp-tiers",
+    "subjectId": "guide:daeva-pass-season-1",
+    "property": "tiers",
+    "value": [
+      "Basic: free",
+      "Premium: 1,500 Quna, includes Resurrection Spiritstone (Bound) ×5"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:daeva-pass-notice"
+    ],
+    "evidence": "Daeva Pass notice › Product Details.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "The notice writes the Premium price as “1.500 Quna”; this page reads it as one thousand five hundred."
+  },
+  {
+    "id": "fact:dp-limit",
+    "subjectId": "guide:daeva-pass-season-1",
+    "property": "purchaseLimit",
+    "value": "Once per character",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:daeva-pass-notice"
+    ],
+    "evidence": "Daeva Pass notice › Product Details › Purchase Limit; Notes 1.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:dp-max-level",
+    "subjectId": "guide:daeva-pass-season-1",
+    "property": "maxLevel",
+    "value": 100,
+    "unit": "levels",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:daeva-pass-notice"
+    ],
+    "evidence": "Daeva Pass notice › How the Daeva Pass Works.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:dp-repeat",
+    "subjectId": "guide:daeva-pass-season-1",
+    "property": "afterMaxLevel",
+    "value": "EXP earned after level 100 keeps levelling the pass for repeatable rewards",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:daeva-pass-notice"
+    ],
+    "evidence": "Daeva Pass notice › How the Daeva Pass Works.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:dp-level-price",
+    "subjectId": "guide:daeva-pass-season-1",
+    "property": "levelPrice",
+    "value": 50,
+    "unit": "Quna per level",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:daeva-pass-notice"
+    ],
+    "evidence": "Daeva Pass notice › How the Daeva Pass Works.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:dp-weekly-cap",
+    "subjectId": "guide:daeva-pass-season-1",
+    "property": "weeklyExpCap",
+    "value": "50,000 EXP per character per week",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:daeva-pass-notice"
+    ],
+    "evidence": "Daeva Pass notice › How to Earn Daeva Pass EXP › Maximum EXP Earned.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:dp-exp-sources",
+    "subjectId": "guide:daeva-pass-season-1",
+    "property": "expSources",
+    "value": [
+      "Defeat 10 monsters: 60 EXP",
+      "Successful gather: 30 EXP",
+      "Successful craft: 30 EXP",
+      "Clear an Expedition or Transcendence: 500 EXP",
+      "Take part in the Shugo Festival: 500 EXP",
+      "Complete a regional quest: 150 EXP",
+      "Clear a Sealed Dungeon: 200 EXP",
+      "Clear a Stronghold: 200 EXP",
+      "Attendance: 2,000 EXP"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:daeva-pass-notice"
+    ],
+    "evidence": "Daeva Pass notice › How to Earn Daeva Pass EXP (Dawn Legion / Ishalgen Mercenary table).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:dp-character-bound",
+    "subjectId": "guide:daeva-pass-season-1",
+    "property": "characterBound",
+    "value": "Paid rewards and Daeva Pass Shop Coins go only to the character the pass was bought for",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:daeva-pass-notice"
+    ],
+    "evidence": "Daeva Pass notice › Notes 2.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:dp-claim-deadline",
+    "subjectId": "guide:daeva-pass-season-1",
+    "property": "claimDeadline",
+    "value": "Rewards, Shop Coins and the Pass Shop are usable until the maintenance on December 15, 2026 (PST); unclaimed items can’t be claimed afterwards",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:daeva-pass-notice"
+    ],
+    "evidence": "Daeva Pass notice › Notes 4–6.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:dp-transfer",
+    "subjectId": "guide:daeva-pass-season-1",
+    "property": "serverTransfer",
+    "value": "The Daeva Pass moves in a server transfer with its progress intact",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products",
+      "source:server-transfer-qa"
+    ],
+    "evidence": "Server transfer products notice › Purchase-Related Items; Q&A › Daeva Pass.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  }
+]

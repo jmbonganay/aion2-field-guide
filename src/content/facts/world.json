@@ -1,0 +1,258 @@
+[
+  {
+    "id": "fact:world-elyos-region",
+    "subjectId": "guide:world-and-zones",
+    "property": "elyosStartingRegion",
+    "value": "Verteron",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser",
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Teaser › World › Elyos slides (all name Verteron); Oct. 13/14 patch notes › Halloween Event › Coin Merchant table (Elyos — Verteron).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:world-asmodian-region",
+    "subjectId": "guide:world-and-zones",
+    "property": "asmodianStartingRegion",
+    "value": "Altgard",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser",
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Teaser › World › Asmodian slide “Safe Haven” (northern Altgard); Oct. 13/14 patch notes › Coin Merchant table (Asmodian — Altgard).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:world-towns",
+    "subjectId": "guide:world-and-zones",
+    "property": "merchantTowns",
+    "value": [
+      "Elyos (Verteron): Dawn Legion Base, Zumion Village",
+      "Asmodians (Altgard): Safe Haven, Nornir Assembly"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:patch-notes-2026-10-14",
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 13/14 patch notes › Halloween Event › “Town Where Merchant Appear” table; Oct. 20/21 patch notes › Fixes (Dawn Legion Base and Zumion Village in Verteron).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Named in official notes as towns; not a complete list of towns."
+  },
+  {
+    "id": "fact:world-dawn-legion-base",
+    "subjectId": "guide:world-and-zones",
+    "property": "dawnLegionBase",
+    "value": "A hidden Dawn Legion base in a secluded ravine of Verteron’s Cantas Valley, used as their secret command centre",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › World › Elyos › Dawn Legion Base.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:world-cantas-valley",
+    "subjectId": "guide:world-and-zones",
+    "property": "cantasValley",
+    "value": "Once a vital Odylium hub for the Daeva, left barren after it was depleted and now scavenged by the Dawn Legion",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › World › Elyos › Cantas Valley.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:world-ellun-river-marsh",
+    "subjectId": "guide:world-and-zones",
+    "property": "ellunRiverMarsh",
+    "value": "A ruined swamp downstream of the Ellun River, held by the Illusion Cavaliers as they rebuild Verteron’s fallen Barrier Tower",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › World › Elyos › Ellun River Marsh.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:world-aullaeu-village",
+    "subjectId": "guide:world-and-zones",
+    "property": "aullaeuVillage",
+    "value": "An Aullaeu settlement at the edge of Tolbas Forest, home to Balaur servants and a source of the forest’s unrest",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › World › Elyos › Aullaeu Village.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:world-altamia-canyon",
+    "subjectId": "guide:world-and-zones",
+    "property": "altamiaCanyon",
+    "value": "A once-submerged canyon in eastern Verteron, former home of the Zumion Temple, now resurfaced under the Notos Legion’s watch",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › World › Elyos › Altamia Canyon.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:world-safe-haven",
+    "subjectId": "guide:world-and-zones",
+    "property": "safeHaven",
+    "value": "A former criminals’ haven in northern Altgard that became a refuge untouched by Balaur attacks after the Dredgion fell",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › World › Asmodians › Safe Haven.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:world-dredgion-crash-site",
+    "subjectId": "guide:world-and-zones",
+    "property": "dredgionCrashSite",
+    "value": "A scorched canyon where a Fafnir Legion Dredgion crashed, leaking Drakana that corrupted the land and isolated the area",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › World › Asmodians › Dredgion Crash Site.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:world-sanctum-outpost",
+    "subjectId": "guide:world-and-zones",
+    "property": "sanctumOutpost",
+    "value": "A former Archon sanctuary turned Balaur stronghold, where Draconute Warriors turn captured Daevas into Fafnites",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › World › Asmodians › Sanctum Outpost.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:world-moslan-forest",
+    "subjectId": "guide:world-and-zones",
+    "property": "moslanForest",
+    "value": "Once a sanctuary of the Elim and Nornir, consumed by Hystan’s flames, leaving only wounded Elim among the ashes",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › World › Asmodians › Moslan Forest.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:world-nornir-assembly",
+    "subjectId": "guide:world-and-zones",
+    "property": "nornirAssembly",
+    "value": "A hidden Nornir settlement built by refugees from Moslan Forest, protected by ancient magic and guided by Urd of the Three Sisters of Fate",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › World › Asmodians › Nornir Assembly.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:world-size",
+    "subjectId": "guide:world-and-zones",
+    "property": "worldSize",
+    "value": "36 times larger than the original AION",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:ncsoft-aion2-global-launch",
+      "source:aion2-steam-store"
+    ],
+    "evidence": "Press release › Key Features; Steam store › About This Game.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  }
+]

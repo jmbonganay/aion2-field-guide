@@ -1,0 +1,84 @@
+[
+  {
+    "id": "fact:ex-dungeon-count",
+    "subjectId": "guide:expedition-dungeons",
+    "property": "dungeonCount",
+    "value": "Over 200 dungeons",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser",
+      "source:aion2-steam-store"
+    ],
+    "evidence": "Teaser › Dungeons section headline; Steam store › About This Game.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:ex-formats",
+    "subjectId": "guide:expedition-dungeons",
+    "property": "dungeonFormats",
+    "value": [
+      "Solo challenges",
+      "5-player party content",
+      "10-player group dungeons"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser",
+      "source:aion2-steam-store",
+      "source:ncsoft-aion2-global-launch"
+    ],
+    "evidence": "Teaser › Dungeons; Steam store › About This Game; press release (solo and five-player dungeons, 10-player raids).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:ex-list",
+    "subjectId": "guide:expedition-dungeons",
+    "property": "expeditionDungeons",
+    "value": [
+      "Krao Cave",
+      "Urugugu Canyon",
+      "Fire Temple",
+      "Draupnir"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Expedition section › dungeon tabs.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "The four Expedition dungeons shown on NC’s official site; not stated to be a complete list."
+  },
+  {
+    "id": "fact:ex-cross-server",
+    "subjectId": "guide:expedition-dungeons",
+    "property": "crossServerMatchmaking",
+    "value": "Cross-server matchmaking lets you play Expedition and Transcendence instances with friends on other servers",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:producer-letter"
+    ],
+    "evidence": "Producer’s Letter › section 1.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T14:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  }
+]
