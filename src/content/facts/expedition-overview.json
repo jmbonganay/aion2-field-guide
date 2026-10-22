@@ -14,8 +14,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T14:25:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T15:01:45Z"
   },
   {
     "id": "fact:ex-formats",
@@ -37,8 +37,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T14:25:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T15:01:45Z"
   },
   {
     "id": "fact:ex-list",
@@ -59,8 +59,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T14:25:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null,
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T15:01:45Z",
     "context": "The four Expedition dungeons shown on NC’s official site; not stated to be a complete list."
   },
   {
@@ -77,8 +77,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T14:25:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null,
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T15:01:45Z",
     "context": "Paraphrased from NC’s description; not a quotation."
   }
 ]

@@ -140,3 +140,9 @@ After drafting, every cited source was re-fetched live and each fact was checked
 - **Time-sensitive:** the server transfer guide describes the period ending at the Oct. 27 (PDT) / Oct. 28 (CET) maintenance.
 - **Follow-up done:** boss names and descriptions for Krao Cave (Ultimate Berk) and Draupnir (Transcendent Bakarma), plus each dungeon's official setting, added and re-approved by jmbonganay on 2026-10-22.
 - **Human review:** all six approved by jmbonganay on 2026-10-22.
+
+## Ticket: four guides from the last official sources (World and zones, Membership and currencies, Daeva Pass, Expedition overview)
+- **Evidence:** official teaser site World section (both factions; images, read visually), Oct. 13/14 and Oct. 20/21 patch notes (town names), NC monetization overview "Team Update" (2026-07-08, linked from the Launch FAQ; image), Daeva Pass product notice (2026-09-30, text), Producer's Letter (2026-10-10; image), Steam store and press release.
+- **Checks:** 19/19 text-sourced facts matched automatically; image facts read visually. The Daeva Pass notice prints the premium price as "1.500 Quna"; recorded as 1,500 with a note.
+- **Time-limited:** Daeva Pass page expires 2026-12-16T07:00Z (end of Dec. 15 PST); server transfers guide expires 2026-10-28T06:30Z.
+- **Human review:** all four approved by jmbonganay on 2026-10-22.
