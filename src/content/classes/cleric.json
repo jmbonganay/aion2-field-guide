@@ -1,6 +1,6 @@
 {
   "region": "global",
-  "status": "in_review",
+  "status": "published",
   "aliases": [],
   "tags": [
     "class",
@@ -8,10 +8,10 @@
   ],
   "patch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
   "author": "Claude (AI research draft)",
-  "reviewedBy": null,
+  "reviewedBy": "jmbonganay",
   "createdAt": "2026-10-22T13:25:00Z",
   "updatedAt": "2026-10-22T13:25:00Z",
-  "lastVerifiedAt": null,
+  "lastVerifiedAt": "2026-10-22T13:32:49Z",
   "sourceIds": [
     "source:ncsoft-aion2-global-launch",
     "source:aion2-global-teaser",

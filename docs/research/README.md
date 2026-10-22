@@ -126,3 +126,10 @@ After drafting, every cited source was re-fetched live and each fact was checked
 | PASS | `fact:sorcerer-restricted-weapon-skin` | source:patch-notes-2026-10-14 |
 
 </details>
+
+## Ticket: the seven remaining classes (Assassin, Chanter, Cleric, Gladiator, Ranger, Spiritmaster, Templar)
+- **Reader problem:** "What is confirmed about this class on Global?"
+- **Evidence (official only):** NC's one-line class descriptions in the Classes carousel of the official teaser site (rendered as images; read visually and paraphrased), class-restricted Halloween Night weapon skins in the Oct. 13/14 patch notes, official class videos (viewing links only), Chanter Spinning Strike fix (Oct. 20/21) and Spiritmaster Summon: Ancient Spirit fix (Oct. 13/14). Automated check: 9/9 patch-note facts matched; 7 descriptions checked visually.
+- **Sources evaluated and not used:** aion2.gg (robots/terms forbid bulk copying and dataset building), aion2.gaming.tools (blocks automated access; bypassing is out of policy), aion2hub.com (no terms page; data from the pre-launch Launch Scale Test client plus KR/TW client data, including a KR/TW-only class).
+- **Open:** party roles in NC's own words, full skill lists, Specialties, Stigmas, builds — need firsthand in-game evidence.
+- **Human review:** all seven approved by jmbonganay on 2026-10-22.

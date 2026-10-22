@@ -1,6 +1,6 @@
 {
   "region": "global",
-  "status": "in_review",
+  "status": "published",
   "aliases": [],
   "tags": [
     "chanter",
@@ -8,10 +8,10 @@
   ],
   "patch": null,
   "author": "Claude (AI research draft)",
-  "reviewedBy": null,
+  "reviewedBy": "jmbonganay",
   "createdAt": "2026-10-22T13:25:00Z",
   "updatedAt": "2026-10-22T13:25:00Z",
-  "lastVerifiedAt": null,
+  "lastVerifiedAt": "2026-10-22T13:32:49Z",
   "sourceIds": [
     "source:patch-notes-2026-10-21"
   ],
