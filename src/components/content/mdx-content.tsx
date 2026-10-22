@@ -10,17 +10,28 @@ import { safeHref } from '@/lib/links';
 import { slugifyHeading } from '@/lib/mdx-analysis';
 import { sourceAnchor } from './source-list';
 
-function MdxLink({ href = '', children, ...rest }: ComponentProps<'a'>) {
-  const safe = safeHref(href);
-  if (!safe) return <span>{children}</span>;
-  if (safe.startsWith('/')) return <Link href={safe}>{children}</Link>;
-  if (safe.startsWith('#')) return <a href={safe}>{children}</a>;
-  return (
-    <a href={safe} rel="noopener noreferrer" {...rest}>
-      {children}
-      <span className="sr-only"> (external site)</span>
-    </a>
-  );
+/**
+ * Internal links are checked against the routes that will exist: a link to a
+ * page that isn't published yet renders as plain text (it becomes a link
+ * automatically once that page passes review). `isLinkable` is omitted in
+ * dev previews, where every link renders.
+ */
+function makeLink(isLinkable?: (path: string) => boolean) {
+  return function MdxLink({ href = '', children, ...rest }: ComponentProps<'a'>) {
+    const safe = safeHref(href);
+    if (!safe) return <span>{children}</span>;
+    if (safe.startsWith('/')) {
+      if (isLinkable && !isLinkable(safe)) return <span>{children}</span>;
+      return <Link href={safe}>{children}</Link>;
+    }
+    if (safe.startsWith('#')) return <a href={safe}>{children}</a>;
+    return (
+      <a href={safe} rel="noopener noreferrer" {...rest}>
+        {children}
+        <span className="sr-only"> (external site)</span>
+      </a>
+    );
+  };
 }
 
 function textOf(node: ReactNode): string {
@@ -92,9 +103,17 @@ function evidenceComponents(evidence: RecordEvidence) {
  * Compiles an MDX body at build time (Server Component, static export).
  * MDX is trusted repository content reviewed in Git — never visitor input.
  */
-export async function MdxContent({ source, evidence }: { source: string; evidence: RecordEvidence }) {
+export async function MdxContent({
+  source,
+  evidence,
+  isLinkable,
+}: {
+  source: string;
+  evidence: RecordEvidence;
+  isLinkable?: (path: string) => boolean;
+}) {
   const { default: Content } = await evaluate(source, { ...runtime, baseUrl: import.meta.url, remarkPlugins: [remarkGfm] });
-  const components = { a: MdxLink, table: MdxTable, h2: heading('h2'), h3: heading('h3'), Note, Term, ...evidenceComponents(evidence) };
+  const components = { a: makeLink(isLinkable), table: MdxTable, h2: heading('h2'), h3: heading('h3'), Note, Term, ...evidenceComponents(evidence) };
   return (
     <div className="prose-guide">
       <Content components={components} />

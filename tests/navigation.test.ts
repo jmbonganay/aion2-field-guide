@@ -43,3 +43,21 @@ describe('navigation config', () => {
     }
   });
 });
+
+describe('body links to record pages', () => {
+  it('finds record links and normalises them', async () => {
+    const { bodyRecordLinks, recordPathOf } = await import('@/lib/links');
+    expect(bodyRecordLinks('See [Draupnir](/dungeons/draupnir/) and [Sources](/sources/) and [x](https://e.org/a).')).toEqual(['/dungeons/draupnir/']);
+    expect(recordPathOf('/dungeons/draupnir#hard')).toBe('/dungeons/draupnir/');
+  });
+
+  it('only links record pages that are published', async () => {
+    const { makeIsLinkable } = await import('@/lib/content');
+    const { bundleOf, guide, recordOf, source } = await import('./helpers');
+    const b = bundleOf({ sources: [source()], records: [guide(), recordOf('dungeon', { status: 'draft' })] });
+    const linkable = makeIsLinkable(b);
+    expect(linkable('/guides/test-guide/')).toBe(true);
+    expect(linkable('/dungeons/test-dungeon/')).toBe(false);
+    expect(linkable('/sources/')).toBe(true);
+  });
+});

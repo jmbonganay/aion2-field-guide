@@ -1,4 +1,5 @@
 import { indexBundle, type ContentBundle } from './bundle';
+import { hrefFor, RECORD_PATH, recordPathOf } from './links';
 import { loadContentTree, type LoadResult } from './load-content';
 import { isPublic, selectAllPublished, selectPublished } from './publication';
 import { isRoutable, type ContentRecord, type EntityKind, type Fact, type Patch, type RecordOfKind, type RoutableKind, type Source } from './schemas';
@@ -111,4 +112,13 @@ export function publicUpdates(bundle: ContentBundle = getBundle(), options: { no
     })
     .filter((u) => u.affected.length > 0 && u.patch.region === 'global')
     .sort((a, b) => (b.patch.effectiveAt ?? b.source?.publishedAt ?? '').localeCompare(a.patch.effectiveAt ?? a.source?.publishedAt ?? ''));
+}
+
+/**
+ * Whether an internal path will exist in the export. Record pages exist only
+ * when published; every other internal path is a static page.
+ */
+export function makeIsLinkable(bundle: ContentBundle = getBundle()): (path: string) => boolean {
+  const published = new Set(selectAllPublished(bundle).filter(isRoutable).map(hrefFor));
+  return (path) => !RECORD_PATH.test(path) || published.has(recordPathOf(path));
 }

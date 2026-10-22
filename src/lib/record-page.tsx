@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { DetailTemplate } from '@/components/content/detail-template';
 import { MdxContent } from '@/components/content/mdx-content';
-import { getPublished, getPublishedBySlug, resolveEvidence } from './content';
+import { getPublished, getPublishedBySlug, makeIsLinkable, resolveEvidence } from './content';
 import { hrefFor, KIND_BASE } from './links';
 import { pageMetadata } from './metadata';
 import { recordTitle, type RoutableKind } from './schemas';
@@ -46,7 +46,7 @@ export async function RecordPage({ kind, params }: { kind: RoutableKind; params:
         { label: recordTitle(record), href: hrefFor(record) },
       ]}
     >
-      {record.body.trim() ? <MdxContent source={record.body} evidence={evidence} /> : null}
+      {record.body.trim() ? <MdxContent source={record.body} evidence={evidence} isLinkable={makeIsLinkable()} /> : null}
     </DetailTemplate>
   );
 }

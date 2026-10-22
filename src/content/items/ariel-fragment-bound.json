@@ -1,16 +1,16 @@
 {
   "region": "global",
-  "status": "in_review",
+  "status": "published",
   "aliases": [],
   "tags": [
     "item"
   ],
   "patch": null,
   "author": "Claude (AI research draft)",
-  "reviewedBy": null,
+  "reviewedBy": "jmbonganay",
   "createdAt": "2026-10-22T10:30:00Z",
   "updatedAt": "2026-10-22T10:30:00Z",
-  "lastVerifiedAt": null,
+  "lastVerifiedAt": "2026-10-22T13:02:15Z",
   "sourceIds": [
     "source:patch-notes-2026-10-21"
   ],

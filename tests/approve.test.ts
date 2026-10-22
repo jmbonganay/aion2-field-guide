@@ -44,8 +44,10 @@ describe('planApproval', () => {
 describe('repository drafts', () => {
   it('every in_review page would pass the full publication gate after human sign-off (no files are written)', () => {
     const { bundle } = loadContentTree();
-    const pages = reviewQueue(bundle).filter((e) => e.previewable && e.record.status === 'in_review');
-    expect(pages.length).toBeGreaterThanOrEqual(4);
+    const queue = reviewQueue(bundle).filter((e) => e.previewable);
+    const pages = queue.filter((e) => e.record.status === 'in_review');
+    // Phase 2 exit: at least four complete pages exist, drafted or already published.
+    expect(queue.filter((e) => e.record.status === 'in_review' || e.record.status === 'published').length).toBeGreaterThanOrEqual(4);
     for (const entry of pages) {
       const plan = planApproval(bundle, entry.record.id, 'Simulated Reviewer');
       expect(plan.ok ? [] : plan.errors, entry.record.id).toEqual([]);

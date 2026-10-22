@@ -1,6 +1,7 @@
 import { indexBundle, originOf, type ContentBundle, type ContentIssue } from './bundle';
+import { bodyRecordLinks, hrefFor, recordPathOf } from './links';
 import { bodyProblems, factLabelProblems, patchesSinceVerification, publicationGateFailures } from './publication';
-import { ENTITY_KINDS, recordTitle, type ContentRecord } from './schemas';
+import { ENTITY_KINDS, isRoutable, recordTitle, type ContentRecord } from './schemas';
 
 /** Published pages older than this many days get a re-verification warning. */
 export const REVERIFY_AFTER_DAYS = 45;
@@ -84,6 +85,11 @@ export function validateBundle(bundle: ContentBundle, options: { now?: Date } = 
     if (record.status === 'published') {
       for (const failure of publicationGateFailures(record, bundle, { now, index })) {
         err(record.id, `cannot publish "${recordTitle(record)}": ${failure}`);
+      }
+      for (const path of bodyRecordLinks(record.body)) {
+        const target = bundle.records.find((r) => isRoutable(r) && hrefFor(r) === recordPathOf(path));
+        if (!target) err(record.id, `body links to "${path}", which is not a known page`);
+        else if (target.status !== 'published') warn(record.id, `body link to "${path}" renders as plain text until ${target.id} is published`);
       }
       if (record.lastVerifiedAt && now.getTime() - Date.parse(record.lastVerifiedAt) > REVERIFY_AFTER_DAYS * 86_400_000) {
         warn(record.id, `last verified more than ${REVERIFY_AFTER_DAYS} days ago — schedule a re-check`);

@@ -36,3 +36,17 @@ export function safeHref(value: string): string | null {
     return null;
   }
 }
+
+/** Record detail paths (`/<section>/<slug>/`). Other internal paths are static pages. */
+export const RECORD_PATH = /^\/(guides|classes|dungeons|systems)\/[a-z0-9-]+\/?(?:#.*)?$/;
+
+/** Internal record links in an MDX body: `](/dungeons/draupnir/)`. */
+export function bodyRecordLinks(body: string): string[] {
+  return [...body.matchAll(/\]\((\/[^)\s]+)\)/g)].map((m) => m[1] as string).filter((p) => RECORD_PATH.test(p));
+}
+
+/** Normalise `/dungeons/draupnir#x` → `/dungeons/draupnir/`. */
+export function recordPathOf(path: string): string {
+  const bare = path.split('#')[0] as string;
+  return bare.endsWith('/') ? bare : `${bare}/`;
+}
