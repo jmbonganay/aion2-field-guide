@@ -1,0 +1,52 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [
+    "Ariel Board",
+    "Ariel Daevanion"
+  ],
+  "tags": [
+    "daevanion",
+    "ariel",
+    "substance morph",
+    "progression"
+  ],
+  "patch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T10:30:00Z",
+  "updatedAt": "2026-10-22T10:30:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:patch-notes-2026-10-21"
+  ],
+  "factIds": [
+    "fact:ariel-board-added",
+    "fact:ariel-points-source",
+    "fact:ariel-per-dungeon-limit",
+    "fact:ariel-crystal-cost",
+    "fact:ariel-crystal-cap",
+    "fact:ariel-enhance-yield",
+    "fact:ariel-enhance-cap",
+    "fact:ariel-crystal-menu",
+    "fact:ariel-enhance-menu"
+  ],
+  "relatedIds": [
+    "dungeon:krao-cave",
+    "dungeon:draupnir",
+    "system:substance-morph",
+    "item:ariel-fragment-bound",
+    "item:daevanion-crystal-ariel-bound",
+    "item:enhance-stone"
+  ],
+  "unverified": [
+    "How many Ariel Daevanion Points one Daevanion Crystal: Ariel grants.",
+    "What the nodes on the Ariel board do, and their costs.",
+    "The per-dungeon limits on Substance Morph, and when limits reset.",
+    "Whether Ariel Fragments or crystals can be shared between characters."
+  ],
+  "id": "system:ariel-daevanion-board",
+  "slug": "ariel-daevanion-board",
+  "name": "Ariel Daevanion Board",
+  "summary": "The Ariel Daevanion Board arrived with Expedition Hard mode. Its points come from Ariel Fragments, which you can also turn into Enhance Stones, so each fragment is a choice."
+}

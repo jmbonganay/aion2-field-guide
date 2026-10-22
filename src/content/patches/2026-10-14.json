@@ -1,0 +1,15 @@
+{
+  "id": "patch:2026-10-14",
+  "title": "Patch notes — Oct. 13 (PDT) / Oct. 14 (CEST)",
+  "region": "global",
+  "sourceId": "source:patch-notes-2026-10-14",
+  "label": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+  "effectiveAt": "2026-10-14T06:30:00Z",
+  "changedIds": [
+    "skill:sorcerer-fire-wall",
+    "skill:sorcerer-cold-storm",
+    "skill:sorcerer-bittercold-wind",
+    "system:substance-morph"
+  ],
+  "summary": "Fixed Sorcerer Fire Wall, Cold Storm and Bittercold Wind issues when fighting at a difference in elevation and when another player applied a stronger effect; moved two items into Substance Morph during the server transfer period."
+}

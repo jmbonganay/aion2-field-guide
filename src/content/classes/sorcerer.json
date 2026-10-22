@@ -1,0 +1,41 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [
+    "Sorc"
+  ],
+  "tags": [
+    "class",
+    "sorcerer",
+    "patch history"
+  ],
+  "patch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T10:30:00Z",
+  "updatedAt": "2026-10-22T10:30:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:ncsoft-aion2-global-launch",
+    "source:patch-notes-2026-10-14",
+    "source:patch-notes-2026-10-21"
+  ],
+  "factIds": [
+    "fact:global-class-count",
+    "fact:global-class-names",
+    "fact:sorcerer-restricted-weapon-skin"
+  ],
+  "relatedIds": [
+    "guide:global-service-basics"
+  ],
+  "unverified": [
+    "The Sorcerer’s role and playstyle as described by NC for the Global service (no official class description was found in text form).",
+    "A complete skill list, skill levels, Specialties and Stigma options.",
+    "Any build, rotation or stat priority. These need documented in-game testing before they can be recommended.",
+    "Whether recent Sorcerer fixes changed damage enough to affect recommendations."
+  ],
+  "id": "class:sorcerer",
+  "slug": "sorcerer",
+  "name": "Sorcerer",
+  "summary": "What official Global sources confirm about the Sorcerer today: where it sits among the eight classes, its class-restricted weapon type, and the skill fixes shipped since launch."
+}

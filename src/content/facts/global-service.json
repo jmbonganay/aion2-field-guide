@@ -1,0 +1,315 @@
+[
+  {
+    "id": "fact:global-launch-date",
+    "subjectId": "guide:global-service-basics",
+    "property": "globalLaunchDate",
+    "value": "October 5, 2026",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:ncsoft-aion2-global-launch",
+      "source:aion2-steam-store"
+    ],
+    "evidence": "Press release dateline and opening paragraph; Steam store release date.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:global-early-access-date",
+    "subjectId": "guide:global-service-basics",
+    "property": "earlyAccessStart",
+    "value": "September 30, 2026",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:ncsoft-aion2-global-launch"
+    ],
+    "evidence": "Press release, first section: Early Access launched Wednesday, September 30.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:global-platforms",
+    "subjectId": "guide:global-service-basics",
+    "property": "platforms",
+    "value": [
+      "Steam (PC)",
+      "PURPLE (PC)"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:ncsoft-aion2-global-launch",
+      "source:launch-faq"
+    ],
+    "evidence": "Press release opening; Launch FAQ \"Will AION 2 be on mobile?\".",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:global-official-support",
+    "subjectId": "guide:global-service-basics",
+    "property": "officiallySupportedPlatform",
+    "value": "Steam and PURPLE on Windows PC",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:launch-faq"
+    ],
+    "evidence": "Launch FAQ \"Will there be Linux or Steam Deck support?\".",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:global-server-regions",
+    "subjectId": "guide:global-service-basics",
+    "property": "serverRegions",
+    "value": [
+      "North America",
+      "South America",
+      "Europe",
+      "Japan"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:launch-faq",
+      "source:ncsoft-aion2-global-launch"
+    ],
+    "evidence": "Launch FAQ \"What regions will be available\"; press release lists Asia (Japan).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:global-ui-languages",
+    "subjectId": "guide:global-service-basics",
+    "property": "uiAndSubtitleLanguages",
+    "value": [
+      "English",
+      "French",
+      "German",
+      "Spanish (Spain)",
+      "Portuguese (Brazil)",
+      "Russian",
+      "Japanese",
+      "Korean"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:launch-faq"
+    ],
+    "evidence": "Launch FAQ \"What languages are available\", UI & Subtitles line.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:global-voice-languages",
+    "subjectId": "guide:global-service-basics",
+    "property": "voiceLanguages",
+    "value": [
+      "English",
+      "Japanese",
+      "Korean"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:launch-faq"
+    ],
+    "evidence": "Launch FAQ \"What languages are available\", VO line.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:global-business-model",
+    "subjectId": "guide:global-service-basics",
+    "property": "businessModel",
+    "value": "Free to play, with an optional monthly membership",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:launch-faq",
+      "source:ncsoft-aion2-global-launch"
+    ],
+    "evidence": "Launch FAQ \"Is AION 2 subscription based?\"; press release headline (free).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:global-paid-offers",
+    "subjectId": "guide:global-service-basics",
+    "property": "paidOffers",
+    "value": [
+      "Optional cosmetic items",
+      "Battle Pass",
+      "Membership for player-driven economy and currency exchanges"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:launch-faq"
+    ],
+    "evidence": "Launch FAQ \"What is the monetization of AION 2?\".",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:global-kr-tw-carryover",
+    "subjectId": "guide:global-service-basics",
+    "property": "progressCarriesOverFromKrTw",
+    "value": false,
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:launch-faq"
+    ],
+    "evidence": "Launch FAQ \"Will any progress from the TW or KR version carry over?\".",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:global-steam-purple-same-content",
+    "subjectId": "guide:global-service-basics",
+    "property": "sameContentOnSteamAndPurple",
+    "value": true,
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:launch-faq"
+    ],
+    "evidence": "Launch FAQ \"Are there any differences between the Steam and Purple versions?\".",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:global-steam-purple-shared-servers",
+    "subjectId": "guide:global-service-basics",
+    "property": "steamAndPurpleShareServers",
+    "value": true,
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:launch-faq"
+    ],
+    "evidence": "Launch FAQ \"Are Steam and Purple players on the same servers?\".",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:global-account-linking",
+    "subjectId": "guide:global-service-basics",
+    "property": "accountLinkingNeeded",
+    "value": "Only to play the same character and progress on both Steam and PURPLE",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:launch-faq"
+    ],
+    "evidence": "Launch FAQ \"Do I need to link my Purple and Steam accounts?\".",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:global-controller",
+    "subjectId": "guide:global-service-basics",
+    "property": "controllerSupport",
+    "value": "Playable with a controller, but not officially supported",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:launch-faq"
+    ],
+    "evidence": "Launch FAQ \"Will there be controller support?\".",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:global-class-count",
+    "subjectId": "guide:global-service-basics",
+    "property": "classCount",
+    "value": 8,
+    "unit": "classes",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:ncsoft-aion2-global-launch"
+    ],
+    "evidence": "Press release, Key Features: \"Deep Character Customization\".",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:global-class-names",
+    "subjectId": "guide:global-service-basics",
+    "property": "classNames",
+    "value": [
+      "Assassin",
+      "Chanter",
+      "Cleric",
+      "Gladiator",
+      "Ranger",
+      "Sorcerer",
+      "Spiritmaster",
+      "Templar"
+    ],
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:ncsoft-aion2-global-launch",
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes, Promotion › New Weapon Skin: each Halloween Night weapon skin is restricted to one named class.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Derived from two official sources: the press release states there are eight classes, and the Oct. 13/14 patch notes name eight class-restricted weapon skins, one per class."
+  }
+]

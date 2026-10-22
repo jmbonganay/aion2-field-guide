@@ -1,0 +1,63 @@
+[
+  {
+    "id": "fact:sm-sealed-wings-limit",
+    "subjectId": "system:substance-morph",
+    "property": "sealedWingsToEnhanceStonesWeeklyLimit",
+    "value": 20,
+    "unit": "morphs per server per week",
+    "region": "global",
+    "effectivePatch": "Oct. 6 (PDT) / Oct. 7 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-07"
+    ],
+    "evidence": "Oct. 6/7 patch notes › Improvements: weekly limit added to the Sealed Wings → Enhance Stones formula.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:sm-transfer-period-items",
+    "subjectId": "system:substance-morph",
+    "property": "itemsMovedFromShopDuringTransfer",
+    "value": [
+      "Instant Clear Ticket: Daily Dungeon (Bound)",
+      "Soul Crystal (Bound)"
+    ],
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes › Content & Systems › Shop: moved to Substance Morph > Special > Wind Breeze Merchants.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Applies during the server transfer period announced in the Oct. 13/14 update; the end date was not stated."
+  },
+  {
+    "id": "fact:sm-special-tabs",
+    "subjectId": "system:substance-morph",
+    "property": "specialTabsNamedInNotes",
+    "value": [
+      "Daevanion",
+      "Consumables",
+      "Wind Breeze Merchants"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:patch-notes-2026-10-14",
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Menu paths quoted in the Oct. 13/14 and Oct. 20/21 patch notes under Substance Morph > Special.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  }
+]

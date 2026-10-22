@@ -1,0 +1,32 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [],
+  "tags": [
+    "sorcerer",
+    "skill"
+  ],
+  "patch": null,
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T10:30:00Z",
+  "updatedAt": "2026-10-22T10:30:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:patch-notes-2026-10-14",
+    "source:patch-notes-2026-10-21"
+  ],
+  "factIds": [
+    "fact:fire-wall-effect",
+    "fact:fire-wall-fix-elevation",
+    "fact:fire-wall-fix-overwrite",
+    "fact:fire-wall-fix-non-embers"
+  ],
+  "relatedIds": [],
+  "unverified": [],
+  "id": "skill:sorcerer-fire-wall",
+  "slug": "sorcerer-fire-wall",
+  "name": "Fire Wall",
+  "classId": "class:sorcerer",
+  "summary": "A Sorcerer skill tied to the Embers effect in official patch notes. Two updates since launch fixed how its bonus damage and Embers behave."
+}

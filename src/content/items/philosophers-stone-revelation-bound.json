@@ -1,0 +1,28 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [],
+  "tags": [
+    "item"
+  ],
+  "patch": null,
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T10:30:00Z",
+  "updatedAt": "2026-10-22T10:30:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:patch-notes-2026-10-21"
+  ],
+  "factIds": [],
+  "relatedIds": [],
+  "unverified": [],
+  "id": "item:philosophers-stone-revelation-bound",
+  "slug": "philosophers-stone-revelation-bound",
+  "name": "Philosopher's Stone: Revelation (Bound)",
+  "itemType": "material",
+  "bound": true,
+  "rarity": null,
+  "slot": null,
+  "summary": "An Expedition (Hard) reward that can drop by chance or be chosen as the guaranteed reward."
+}

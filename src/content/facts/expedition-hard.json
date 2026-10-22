@@ -1,0 +1,356 @@
+[
+  {
+    "id": "fact:krao-cave-hard-added",
+    "subjectId": "dungeon:krao-cave",
+    "property": "hardModeAdded",
+    "value": "Expedition Hard mode added",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21",
+      "source:maintenance-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Content & Systems › Expedition, first item; maintenance notice marked complete.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:krao-cave-hard-item-level",
+    "subjectId": "dungeon:krao-cave",
+    "property": "hardModeRequiredItemLevel",
+    "value": 2600,
+    "unit": "item level",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: \"Required item level for entry\".",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:krao-cave-hard-frenzy-timer",
+    "subjectId": "dungeon:krao-cave",
+    "property": "hardModeBossFrenzyTimer",
+    "value": 4,
+    "unit": "minutes",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: boss Frenzy timer in Hard mode.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:krao-cave-hard-revives",
+    "subjectId": "dungeon:krao-cave",
+    "property": "hardModeRevivesPerPlayer",
+    "value": 3,
+    "unit": "revives per player",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: revive limit per player in Hard mode.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:krao-cave-hard-chance-rewards",
+    "subjectId": "dungeon:krao-cave",
+    "property": "hardModeChanceRewards",
+    "value": [
+      "Philosopher's Stone: Revelation (Bound)",
+      "Expedition Hero Artwork"
+    ],
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition › new Hard mode rewards (\"a chance to obtain\").",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:krao-cave-hard-guaranteed-choice",
+    "subjectId": "dungeon:krao-cave",
+    "property": "hardModeGuaranteedRewardChoice",
+    "value": "Philosopher's Stone: Revelation (Bound) can be selected as a guaranteed reward",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition › new Hard mode rewards.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:krao-cave-hard-ariel-fragment",
+    "subjectId": "dungeon:krao-cave",
+    "property": "hardModeAwardsArielFragment",
+    "value": "Ariel Fragment (Bound); the fragment rewarded varies by dungeon",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition › new Hard mode rewards.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:krao-cave-hard-kina",
+    "subjectId": "dungeon:krao-cave",
+    "property": "hardModeKinaComparedToNormal",
+    "value": "More Kina than Normal difficulty",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition › new Hard mode rewards.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:krao-cave-hard-unique-materials",
+    "subjectId": "dungeon:krao-cave",
+    "property": "hardModeUniqueCraftingMaterials",
+    "value": "All Unique crafting materials; the same section also lists Wrathful Mind, Wrathful Will and Wrathful Ego as obtainable",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: Unique crafting materials in Hard mode for Krao Cave and Draupnir.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:krao-cave-hard-achievements",
+    "subjectId": "dungeon:krao-cave",
+    "property": "hardModeAchievements",
+    "value": "New Expedition (Hard) achievements, with Unique Skins for completing them",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: achievements.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:draupnir-hard-added",
+    "subjectId": "dungeon:draupnir",
+    "property": "hardModeAdded",
+    "value": "Expedition Hard mode added",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21",
+      "source:maintenance-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Content & Systems › Expedition, first item; maintenance notice marked complete.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:draupnir-hard-item-level",
+    "subjectId": "dungeon:draupnir",
+    "property": "hardModeRequiredItemLevel",
+    "value": 2600,
+    "unit": "item level",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: \"Required item level for entry\".",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:draupnir-hard-frenzy-timer",
+    "subjectId": "dungeon:draupnir",
+    "property": "hardModeBossFrenzyTimer",
+    "value": 4,
+    "unit": "minutes",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: boss Frenzy timer in Hard mode.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:draupnir-hard-revives",
+    "subjectId": "dungeon:draupnir",
+    "property": "hardModeRevivesPerPlayer",
+    "value": 3,
+    "unit": "revives per player",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: revive limit per player in Hard mode.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:draupnir-hard-chance-rewards",
+    "subjectId": "dungeon:draupnir",
+    "property": "hardModeChanceRewards",
+    "value": [
+      "Philosopher's Stone: Revelation (Bound)",
+      "Expedition Hero Artwork"
+    ],
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition › new Hard mode rewards (\"a chance to obtain\").",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:draupnir-hard-guaranteed-choice",
+    "subjectId": "dungeon:draupnir",
+    "property": "hardModeGuaranteedRewardChoice",
+    "value": "Philosopher's Stone: Revelation (Bound) can be selected as a guaranteed reward",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition › new Hard mode rewards.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:draupnir-hard-ariel-fragment",
+    "subjectId": "dungeon:draupnir",
+    "property": "hardModeAwardsArielFragment",
+    "value": "Ariel Fragment (Bound); the fragment rewarded varies by dungeon",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition › new Hard mode rewards.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:draupnir-hard-kina",
+    "subjectId": "dungeon:draupnir",
+    "property": "hardModeKinaComparedToNormal",
+    "value": "More Kina than Normal difficulty",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition › new Hard mode rewards.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:draupnir-hard-unique-materials",
+    "subjectId": "dungeon:draupnir",
+    "property": "hardModeUniqueCraftingMaterials",
+    "value": "All Unique crafting materials; the same section also lists Wrathful Mind, Wrathful Will and Wrathful Ego as obtainable",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: Unique crafting materials in Hard mode for Krao Cave and Draupnir.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:draupnir-hard-achievements",
+    "subjectId": "dungeon:draupnir",
+    "property": "hardModeAchievements",
+    "value": "New Expedition (Hard) achievements, with Unique Skins for completing them",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: achievements.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  }
+]

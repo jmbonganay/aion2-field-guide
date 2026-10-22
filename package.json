@@ -1,0 +1,49 @@
+{
+  "name": "aion2-field-guide",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Unofficial, read-only, static AION 2 Global field guide (fan-made).",
+  "license": "UNLICENSED",
+  "type": "module",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "npm run content:validate && next build && npm run verify:export",
+    "start": "npx --yes serve@14.2.4 out",
+    "lint": "eslint .",
+    "typecheck": "next typegen && tsc --noEmit",
+    "content:validate": "tsx scripts/validate-content.ts",
+    "verify:export": "tsx scripts/verify-export.ts",
+    "test": "vitest run",
+    "check": "npm run lint && npm run typecheck && npm run test && npm run build",
+    "content:review": "tsx scripts/review-queue.ts",
+    "content:approve": "tsx scripts/approve.ts",
+    "links:check": "tsx scripts/check-links.ts",
+    "og:generate": "tsx scripts/generate-og.tsx"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "3.1.1",
+    "minisearch": "7.2.0",
+    "next": "16.4.2",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remark-gfm": "4.0.1",
+    "yaml": "2.9.1",
+    "zod": "4.3.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "24.10.1",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.4.2",
+    "postcss": "8.5.31",
+    "tailwindcss": "4.3.3",
+    "tsx": "4.23.15",
+    "typescript": "6.0.3",
+    "vitest": "4.1.12"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "patch:2026-10-21",
+  "title": "Patch notes — Oct. 20 (PDT) / Oct. 21 (CEST)",
+  "region": "global",
+  "sourceId": "source:patch-notes-2026-10-21",
+  "label": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+  "effectiveAt": "2026-10-21T06:30:00Z",
+  "changedIds": [
+    "dungeon:krao-cave",
+    "dungeon:draupnir",
+    "system:ariel-daevanion-board",
+    "system:substance-morph",
+    "skill:sorcerer-cold-storm",
+    "skill:sorcerer-fire-wall"
+  ],
+  "summary": "Added Expedition Hard mode to Krao Cave and Draupnir, the Ariel Daevanion Board and Ariel Fragment conversions in Substance Morph; fixed Sorcerer Cold Storm and Fire Wall damage issues. Live from the start of maintenance (per the maintenance notice)."
+}

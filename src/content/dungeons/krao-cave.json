@@ -1,0 +1,53 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [
+    "Krao Cave Hard",
+    "Krao Cave (Hard)"
+  ],
+  "tags": [
+    "expedition",
+    "hard mode",
+    "dungeon"
+  ],
+  "patch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T10:30:00Z",
+  "updatedAt": "2026-10-22T10:30:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:patch-notes-2026-10-21",
+    "source:maintenance-2026-10-21"
+  ],
+  "factIds": [
+    "fact:krao-cave-hard-added",
+    "fact:krao-cave-hard-item-level",
+    "fact:krao-cave-hard-frenzy-timer",
+    "fact:krao-cave-hard-revives",
+    "fact:krao-cave-hard-chance-rewards",
+    "fact:krao-cave-hard-guaranteed-choice",
+    "fact:krao-cave-hard-ariel-fragment",
+    "fact:krao-cave-hard-kina",
+    "fact:krao-cave-hard-unique-materials",
+    "fact:krao-cave-hard-achievements"
+  ],
+  "relatedIds": [
+    "dungeon:draupnir",
+    "system:ariel-daevanion-board",
+    "item:ariel-fragment-bound",
+    "item:philosophers-stone-revelation-bound"
+  ],
+  "unverified": [
+    "Normal-mode entry requirements and rewards.",
+    "Group size, entry location and entry limits for either difficulty.",
+    "Boss names and mechanics, and what happens when the Frenzy timer runs out.",
+    "Drop chances for Hard mode rewards, and how many Ariel Fragments each clear gives.",
+    "Which Ariel Fragment this dungeon awards (the notes say it varies by dungeon)."
+  ],
+  "id": "dungeon:krao-cave",
+  "slug": "krao-cave",
+  "name": "Krao Cave",
+  "category": "Expedition",
+  "summary": "Krao Cave gained an Expedition Hard mode in the Oct. 20/21 update. This page covers its Hard mode entry rule, limits and rewards as stated in the official patch notes."
+}

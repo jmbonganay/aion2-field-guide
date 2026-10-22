@@ -1,0 +1,34 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [],
+  "tags": [
+    "sorcerer",
+    "skill"
+  ],
+  "patch": null,
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T10:30:00Z",
+  "updatedAt": "2026-10-22T10:30:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:patch-notes-2026-10-14",
+    "source:patch-notes-2026-10-21"
+  ],
+  "factIds": [
+    "fact:cold-storm-effect",
+    "fact:cold-storm-fix-elevation",
+    "fact:cold-storm-fix-overwrite",
+    "fact:cold-storm-fix-stacks",
+    "fact:cold-storm-fix-level",
+    "fact:cold-storm-fix-specialty"
+  ],
+  "relatedIds": [],
+  "unverified": [],
+  "id": "skill:sorcerer-cold-storm",
+  "slug": "sorcerer-cold-storm",
+  "name": "Cold Storm",
+  "classId": "class:sorcerer",
+  "summary": "A Sorcerer skill tied to the Frostbite effect in official patch notes. Fixes since launch cover bonus damage, Frostbite stacks, skill level and a Specialty interaction."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "patch:2026-10-07",
+  "title": "Patch notes — Oct. 6 (PDT) / Oct. 7 (CEST)",
+  "region": "global",
+  "sourceId": "source:patch-notes-2026-10-07",
+  "label": "Oct. 6 (PDT) / Oct. 7 (CEST)",
+  "effectiveAt": null,
+  "changedIds": [
+    "system:substance-morph"
+  ],
+  "summary": "Added a weekly per-server limit to the Substance Morph recipe that turns Sealed Wings into Enhance Stones. Go-live time not recorded because the note’s date and weekday disagree."
+}

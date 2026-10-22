@@ -1,0 +1,31 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [],
+  "tags": [
+    "item"
+  ],
+  "patch": null,
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T10:30:00Z",
+  "updatedAt": "2026-10-22T10:30:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:patch-notes-2026-10-21"
+  ],
+  "factIds": [
+    "fact:ariel-crystal-cost",
+    "fact:ariel-enhance-yield"
+  ],
+  "relatedIds": [],
+  "unverified": [],
+  "id": "item:ariel-fragment-bound",
+  "slug": "ariel-fragment-bound",
+  "name": "Ariel Fragment (Bound)",
+  "itemType": "material",
+  "bound": true,
+  "rarity": null,
+  "slot": null,
+  "summary": "An Expedition (Hard) reward. It can be morphed into a Daevanion Crystal: Ariel (Bound) or into Enhance Stones."
+}

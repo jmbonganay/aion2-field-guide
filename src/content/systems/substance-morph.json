@@ -1,0 +1,53 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [
+    "Morph",
+    "Morphing"
+  ],
+  "tags": [
+    "substance morph",
+    "crafting",
+    "enhance stones",
+    "limits"
+  ],
+  "patch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T10:30:00Z",
+  "updatedAt": "2026-10-22T10:30:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:patch-notes-2026-10-07",
+    "source:patch-notes-2026-10-14",
+    "source:patch-notes-2026-10-21"
+  ],
+  "factIds": [
+    "fact:sm-sealed-wings-limit",
+    "fact:sm-transfer-period-items",
+    "fact:sm-special-tabs",
+    "fact:ariel-crystal-cost",
+    "fact:ariel-crystal-cap",
+    "fact:ariel-enhance-yield",
+    "fact:ariel-enhance-cap",
+    "fact:ariel-crystal-menu",
+    "fact:ariel-enhance-menu"
+  ],
+  "relatedIds": [
+    "system:ariel-daevanion-board",
+    "item:ariel-fragment-bound",
+    "item:daevanion-crystal-ariel-bound",
+    "item:enhance-stone"
+  ],
+  "unverified": [
+    "The full list of Substance Morph recipes and their material costs.",
+    "Success chances for regular (non-event) recipes.",
+    "When weekly limits reset, and how per-server and per-character limits interact.",
+    "When the server transfer period ends, and what happens to the moved items afterwards.",
+    "The exact go-live time of the Oct. 6/7 limit (the note’s date and weekday disagree)."
+  ],
+  "id": "system:substance-morph",
+  "slug": "substance-morph",
+  "name": "Substance Morph",
+  "summary": "Substance Morph converts materials into other items. This page lists only the recipes and limits that official Global patch notes state."
+}

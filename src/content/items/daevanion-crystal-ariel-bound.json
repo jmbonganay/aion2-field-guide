@@ -1,0 +1,31 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [],
+  "tags": [
+    "item"
+  ],
+  "patch": null,
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T10:30:00Z",
+  "updatedAt": "2026-10-22T10:30:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:patch-notes-2026-10-21"
+  ],
+  "factIds": [
+    "fact:ariel-crystal-cap",
+    "fact:ariel-crystal-menu"
+  ],
+  "relatedIds": [],
+  "unverified": [],
+  "id": "item:daevanion-crystal-ariel-bound",
+  "slug": "daevanion-crystal-ariel-bound",
+  "name": "Daevanion Crystal: Ariel (Bound)",
+  "itemType": "material",
+  "bound": true,
+  "rarity": null,
+  "slot": null,
+  "summary": "Made from Ariel Fragments through Substance Morph, and tied to Ariel Daevanion Points."
+}

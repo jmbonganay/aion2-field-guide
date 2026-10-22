@@ -1,0 +1,225 @@
+[
+  {
+    "id": "fact:sorcerer-restricted-weapon-skin",
+    "subjectId": "class:sorcerer",
+    "property": "classRestrictedWeaponSkinType",
+    "value": "Spellbook",
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes, Promotion › New Weapon Skin: Halloween Night (Skin: Spellbook) is available only to Sorcerer class players.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:fire-wall-effect",
+    "subjectId": "skill:sorcerer-fire-wall",
+    "property": "associatedEffect",
+    "value": "Embers",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:patch-notes-2026-10-14",
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Class Changes › Sorcerer › Fire Wall in both notes refers to the Embers effect.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:fire-wall-fix-elevation",
+    "subjectId": "skill:sorcerer-fire-wall",
+    "property": "fixElevationBonusDamage",
+    "value": "Bonus damage now applies when fighting at a difference in elevation",
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes › Class Changes › Sorcerer › Fire Wall.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:fire-wall-fix-overwrite",
+    "subjectId": "skill:sorcerer-fire-wall",
+    "property": "fixEffectOverwrite",
+    "value": "Your Embers effect is no longer removed by another player's stronger Embers",
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes › Class Changes › Sorcerer › Fire Wall.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:fire-wall-fix-non-embers",
+    "subjectId": "skill:sorcerer-fire-wall",
+    "property": "fixExtraDamageWithoutEmbers",
+    "value": "Extra damage is no longer dealt to targets not affected by Embers",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Class Changes › Sorcerer › Fire Wall.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:cold-storm-effect",
+    "subjectId": "skill:sorcerer-cold-storm",
+    "property": "associatedEffect",
+    "value": "Frostbite",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:patch-notes-2026-10-14",
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Class Changes › Sorcerer › Cold Storm in both notes refers to the Frostbite effect.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:cold-storm-fix-elevation",
+    "subjectId": "skill:sorcerer-cold-storm",
+    "property": "fixElevationBonusDamage",
+    "value": "Bonus damage now applies when fighting at a difference in elevation",
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes › Class Changes › Sorcerer › Cold Storm.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:cold-storm-fix-overwrite",
+    "subjectId": "skill:sorcerer-cold-storm",
+    "property": "fixEffectOverwrite",
+    "value": "Your Frostbite effect is no longer removed by another player's stronger Frostbite",
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes › Class Changes › Sorcerer › Cold Storm.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:cold-storm-fix-stacks",
+    "subjectId": "skill:sorcerer-cold-storm",
+    "property": "fixStackedFrostbiteDamage",
+    "value": "Attacking targets with stacked Frostbite now deals the intended extra damage",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Class Changes › Sorcerer › Cold Storm, first item.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:cold-storm-fix-level",
+    "subjectId": "skill:sorcerer-cold-storm",
+    "property": "fixFrostbiteSkillLevel",
+    "value": "The Frostbite effect now matches the skill level",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Class Changes › Sorcerer › Cold Storm, second item.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:cold-storm-fix-specialty",
+    "subjectId": "skill:sorcerer-cold-storm",
+    "property": "fixSpecialtyExtraFrostbite",
+    "value": "With the first Specialty, Frostbite is no longer applied an extra time after the Cold Storm area ends",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Class Changes › Sorcerer › Cold Storm, third item (\"Specialty 1\").",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:bittercold-wind-effect",
+    "subjectId": "skill:sorcerer-bittercold-wind",
+    "property": "associatedEffect",
+    "value": "Frost Cooldown Reduction",
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes › Class Changes › Sorcerer › Bittercold Wind.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:bittercold-wind-fix-elevation",
+    "subjectId": "skill:sorcerer-bittercold-wind",
+    "property": "fixElevationCooldownReduction",
+    "value": "Frost Cooldown Reduction now works when fighting at a difference in elevation",
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes › Class Changes › Sorcerer › Bittercold Wind.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  }
+]

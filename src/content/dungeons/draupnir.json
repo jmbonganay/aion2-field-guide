@@ -1,0 +1,53 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [
+    "Draupnir Hard",
+    "Draupnir (Hard)"
+  ],
+  "tags": [
+    "expedition",
+    "hard mode",
+    "dungeon"
+  ],
+  "patch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T10:30:00Z",
+  "updatedAt": "2026-10-22T10:30:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:patch-notes-2026-10-21",
+    "source:maintenance-2026-10-21"
+  ],
+  "factIds": [
+    "fact:draupnir-hard-added",
+    "fact:draupnir-hard-item-level",
+    "fact:draupnir-hard-frenzy-timer",
+    "fact:draupnir-hard-revives",
+    "fact:draupnir-hard-chance-rewards",
+    "fact:draupnir-hard-guaranteed-choice",
+    "fact:draupnir-hard-ariel-fragment",
+    "fact:draupnir-hard-kina",
+    "fact:draupnir-hard-unique-materials",
+    "fact:draupnir-hard-achievements"
+  ],
+  "relatedIds": [
+    "dungeon:krao-cave",
+    "system:ariel-daevanion-board",
+    "item:ariel-fragment-bound",
+    "item:philosophers-stone-revelation-bound"
+  ],
+  "unverified": [
+    "Normal-mode entry requirements and rewards.",
+    "Group size, entry location and entry limits for either difficulty.",
+    "Boss names and mechanics, and what happens when the Frenzy timer runs out.",
+    "Drop chances for Hard mode rewards, and how many Ariel Fragments each clear gives.",
+    "Which Ariel Fragment this dungeon awards (the notes say it varies by dungeon)."
+  ],
+  "id": "dungeon:draupnir",
+  "slug": "draupnir",
+  "name": "Draupnir",
+  "category": "Expedition",
+  "summary": "Draupnir gained an Expedition Hard mode in the Oct. 20/21 update. This page covers its Hard mode entry rule, limits and rewards as stated in the official patch notes."
+}

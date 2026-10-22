@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+
+# next.js / static export output
+/.next/
+/out/
+next-env.d.ts
+*.tsbuildinfo
+
+# testing
+/coverage
+
+# env (no secrets are required; keep local overrides private anyway)
+.env*.local
+.env
+
+# misc
+.DS_Store
+*.log
+.vercel

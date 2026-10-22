@@ -1,0 +1,29 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [],
+  "tags": [
+    "sorcerer",
+    "skill"
+  ],
+  "patch": null,
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T10:30:00Z",
+  "updatedAt": "2026-10-22T10:30:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:patch-notes-2026-10-14"
+  ],
+  "factIds": [
+    "fact:bittercold-wind-effect",
+    "fact:bittercold-wind-fix-elevation"
+  ],
+  "relatedIds": [],
+  "unverified": [],
+  "id": "skill:sorcerer-bittercold-wind",
+  "slug": "sorcerer-bittercold-wind",
+  "name": "Bittercold Wind",
+  "classId": "class:sorcerer",
+  "summary": "A Sorcerer skill tied to a Frost Cooldown Reduction effect in official patch notes."
+}

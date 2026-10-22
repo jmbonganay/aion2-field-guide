@@ -1,0 +1,158 @@
+[
+  {
+    "id": "fact:ariel-board-added",
+    "subjectId": "system:ariel-daevanion-board",
+    "property": "added",
+    "value": "New Ariel Daevanion Board",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Addition of New \"Ariel\" Daevanion Board.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:ariel-points-source",
+    "subjectId": "system:ariel-daevanion-board",
+    "property": "pointSource",
+    "value": "Collect Ariel Fragments from Expedition (Hard) and morph them through Substance Morph",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Ariel Daevanion Board, second item.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:ariel-per-dungeon-limit",
+    "subjectId": "system:ariel-daevanion-board",
+    "property": "morphLimitPerDungeon",
+    "value": "The number obtainable through Substance Morph is limited for each dungeon; limits not stated",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Ariel Daevanion Board, third item.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:ariel-crystal-cost",
+    "subjectId": "system:ariel-daevanion-board",
+    "property": "fragmentsPerArielCrystal",
+    "value": 100,
+    "unit": "Ariel Fragments per crystal",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: Substance Morph converts Ariel Fragments into a Daevanion Crystal: Ariel (Bound).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:ariel-crystal-cap",
+    "subjectId": "system:ariel-daevanion-board",
+    "property": "arielCrystalMorphCap",
+    "value": 30,
+    "unit": "conversions per character",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: crystal conversion \"up to 30 times per character\".",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:ariel-enhance-yield",
+    "subjectId": "system:ariel-daevanion-board",
+    "property": "enhanceStonesPerFragment",
+    "value": 5,
+    "unit": "Enhance Stones per Ariel Fragment",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: 1 Ariel Fragment into Enhance Stones.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:ariel-enhance-cap",
+    "subjectId": "system:ariel-daevanion-board",
+    "property": "enhanceStoneMorphCap",
+    "value": "Unlimited",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: Enhance Stone conversion \"an unlimited number of times\".",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:ariel-crystal-menu",
+    "subjectId": "system:ariel-daevanion-board",
+    "property": "arielCrystalMenuPath",
+    "value": "Substance Morph > Special > Daevanion",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: menu location for the crystal morph.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:ariel-enhance-menu",
+    "subjectId": "system:ariel-daevanion-board",
+    "property": "enhanceStoneMenuPath",
+    "value": "Substance Morph > Special > Consumables",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Expedition: menu location for the Enhance Stone morph.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T10:30:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  }
+]

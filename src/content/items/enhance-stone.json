@@ -1,0 +1,32 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [],
+  "tags": [
+    "item"
+  ],
+  "patch": null,
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T10:30:00Z",
+  "updatedAt": "2026-10-22T10:30:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:patch-notes-2026-10-07",
+    "source:patch-notes-2026-10-21"
+  ],
+  "factIds": [
+    "fact:ariel-enhance-cap",
+    "fact:sm-sealed-wings-limit"
+  ],
+  "relatedIds": [],
+  "unverified": [],
+  "id": "item:enhance-stone",
+  "slug": "enhance-stone",
+  "name": "Enhance Stone",
+  "itemType": "material",
+  "bound": null,
+  "rarity": null,
+  "slot": null,
+  "summary": "Can be morphed from Ariel Fragments or Sealed Wings, each with its own limit."
+}
