@@ -14,8 +14,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:59:19Z"
   },
   {
     "id": "fact:global-early-access-date",
@@ -31,8 +31,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:59:19Z"
   },
   {
     "id": "fact:global-platforms",
@@ -52,8 +52,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:59:19Z"
   },
   {
     "id": "fact:global-official-support",
@@ -69,8 +69,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:59:19Z"
   },
   {
     "id": "fact:global-server-regions",
@@ -92,8 +92,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:59:19Z"
   },
   {
     "id": "fact:global-ui-languages",
@@ -118,8 +118,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:59:19Z"
   },
   {
     "id": "fact:global-voice-languages",
@@ -139,8 +139,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:59:19Z"
   },
   {
     "id": "fact:global-business-model",
@@ -157,8 +157,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:59:19Z"
   },
   {
     "id": "fact:global-paid-offers",
@@ -178,8 +178,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:59:19Z"
   },
   {
     "id": "fact:global-kr-tw-carryover",
@@ -195,8 +195,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:59:19Z"
   },
   {
     "id": "fact:global-steam-purple-same-content",
@@ -212,8 +212,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:59:19Z"
   },
   {
     "id": "fact:global-steam-purple-shared-servers",
@@ -229,8 +229,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:59:19Z"
   },
   {
     "id": "fact:global-account-linking",
@@ -246,8 +246,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:59:19Z"
   },
   {
     "id": "fact:global-controller",
@@ -263,8 +263,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T12:59:19Z"
   },
   {
     "id": "fact:global-class-count",
@@ -282,7 +282,7 @@
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
     "verifiedBy": "jmbonganay",
-    "lastVerifiedAt": "2026-10-22T12:51:39Z"
+    "lastVerifiedAt": "2026-10-22T12:59:19Z"
   },
   {
     "id": "fact:global-class-names",
@@ -309,7 +309,7 @@
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
     "verifiedBy": "jmbonganay",
-    "lastVerifiedAt": "2026-10-22T12:51:39Z",
+    "lastVerifiedAt": "2026-10-22T12:59:19Z",
     "context": "Derived from two official sources: the press release states there are eight classes, and the Oct. 13/14 patch notes name eight class-restricted weapon skins, one per class."
   }
 ]
