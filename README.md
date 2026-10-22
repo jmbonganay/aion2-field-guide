@@ -4,7 +4,7 @@
 > **Live:** https://aion2-field-guide-liart.vercel.app · **Source:** https://github.com/jmbonganay/aion2-field-guide  
 > **Project type:** Unofficial, free, non-commercial, read-only fansite  
 > **Prepared:** 2026-10-22  
-> **Status:** Phase 2 (editorial system + Sorcerer MVP) implemented. Six source-backed pages are drafted `in_review` and await **human** sign-off; nothing is published until a reviewer approves it. NOT a verified game-item database.
+> **Status:** Six source-backed pages are published after human review by jmbonganay on 2026-10-22: Sorcerer, Global service basics, Krao Cave, Draupnir, Ariel Daevanion Board and Substance Morph (61 verified facts). NOT a complete game database — each page lists what is not yet verified.
 
 ## Quick start
 

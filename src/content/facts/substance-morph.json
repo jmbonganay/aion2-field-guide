@@ -14,8 +14,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:10:25Z"
   },
   {
     "id": "fact:sm-transfer-period-items",
@@ -34,8 +34,8 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null,
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:10:25Z",
     "context": "Applies during the server transfer period announced in the Oct. 13/14 update; the end date was not stated."
   },
   {
@@ -57,7 +57,7 @@
     "capturedBy": "Claude (AI research assistant)",
     "capturedAt": "2026-10-22T10:30:00Z",
     "verification": "confirmed",
-    "verifiedBy": null,
-    "lastVerifiedAt": null
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T13:10:25Z"
   }
 ]

@@ -1,6 +1,6 @@
 {
   "region": "global",
-  "status": "in_review",
+  "status": "published",
   "aliases": [
     "Draupnir Hard",
     "Draupnir (Hard)"
@@ -12,10 +12,10 @@
   ],
   "patch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
   "author": "Claude (AI research draft)",
-  "reviewedBy": null,
+  "reviewedBy": "jmbonganay",
   "createdAt": "2026-10-22T10:30:00Z",
   "updatedAt": "2026-10-22T10:30:00Z",
-  "lastVerifiedAt": null,
+  "lastVerifiedAt": "2026-10-22T13:10:24Z",
   "sourceIds": [
     "source:patch-notes-2026-10-21",
     "source:maintenance-2026-10-21"

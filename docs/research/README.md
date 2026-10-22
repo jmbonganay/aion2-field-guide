@@ -1,6 +1,6 @@
 # Research tickets — Phase 2
 
-One ticket per page drafted in Phase 2, following the "Required fields in a guide research ticket" list in `docs/07-CONTENT-BACKLOG.md`. All six pages are `in_review`: they were researched and drafted by an AI assistant (Claude) and **must be checked by a human reviewer** before publication (`npm run content:approve`). Nothing here is published.
+One ticket per page drafted in Phase 2, following the "Required fields in a guide research ticket" list in `docs/07-CONTENT-BACKLOG.md`. The six pages were researched and drafted by an AI assistant (Claude) as `in_review`. **Human review:** all six were reviewed and approved by jmbonganay on 2026-10-22 via `npm run content:approve`, which set `reviewedBy`, `lastVerifiedAt` and each fact's `verifiedBy`. All six are now published.
 
 Evidence captured 2026-10-22 (UTC) from official NC pages, rendered with JavaScript in a headless browser (robots.txt on `aion2.plaync.com` and `about.ncsoft.com` allows all paths). No third-party database or wiki was used. Claims are paraphrased; no long passages were copied.
 
