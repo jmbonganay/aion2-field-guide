@@ -131,8 +131,8 @@
     "region": "global",
     "publishedAt": null,
     "retrievedAt": "2026-10-22T13:25:00Z",
-    "scope": "Official one-line description of each class, and links to the official class videos.",
-    "notes": "Class descriptions are rendered as images in the Classes carousel; read visually on 2026-10-22 and paraphrased, not copied."
+    "scope": "Official Classes, Expedition, Lore, Factions and Pet sections: class descriptions, Expedition dungeons and bosses, story chapters and the pet overview.",
+    "notes": "Text is rendered as images; read visually on 2026-10-22 and paraphrased, not copied."
   },
   {
     "id": "source:class-video-gladiator",
@@ -217,5 +217,52 @@
     "retrievedAt": "2026-10-22T13:25:00Z",
     "scope": "Official gameplay video for the Spiritmaster class, linked from the official teaser site.",
     "notes": "Short gameplay video without narration or a text description; cited as a viewing link only, not as evidence for specific claims."
+  },
+  {
+    "id": "source:server-transfer-qa",
+    "title": "[Notice] Server Transfer Q&A | Updated 10/20, 01:00 (PDT)",
+    "url": "https://aion2.plaync.com/en-us/board/notice/view?articleId=6ac7e128d97eae18cc40e3b7",
+    "publisher": "NC (official AION 2 Global website)",
+    "grade": "official",
+    "region": "global",
+    "publishedAt": "2026-10-10",
+    "retrievedAt": "2026-10-22T13:50:00Z",
+    "scope": "What carries over in a server transfer, transfer windows and limits.",
+    "notes": "Board date 2026-10-10 (time zone not stated); updated 10/14 and 10/20."
+  },
+  {
+    "id": "source:server-transfer-products",
+    "title": "[Notice] Server Transfer Products Info Oct 13 (PDT) / Oct 14 (CEST)",
+    "url": "https://aion2.plaync.com/en-us/board/notice/view?articleId=6ac932a8fa34c1011d627bc9",
+    "publisher": "NC (official AION 2 Global website)",
+    "grade": "official",
+    "region": "global",
+    "publishedAt": "2026-10-10",
+    "retrievedAt": "2026-10-22T13:50:00Z",
+    "scope": "Server transfer prices, rules, purchase requirements and the transferable-items summary.",
+    "notes": "Updated 10/20, 01:00 (PDT)."
+  },
+  {
+    "id": "source:server-transfer-limits",
+    "title": "[Notice] Advance Notice of Server Transfer Limits",
+    "url": "https://aion2.plaync.com/en-us/board/notice/view?articleId=6acf52e3058fb5520d6ffc5a",
+    "publisher": "NC (official AION 2 Global website)",
+    "grade": "official",
+    "region": "global",
+    "publishedAt": "2026-10-14",
+    "retrievedAt": "2026-10-22T13:50:00Z",
+    "scope": "Per-server transfer-in/out limits and early or permanent closure."
+  },
+  {
+    "id": "source:server-matchmaking",
+    "title": "[Notice] New Server and Matchmaking Information",
+    "url": "https://aion2.plaync.com/en-us/board/notice/view?articleId=6ac10581a279104f7d9d5f4c",
+    "publisher": "NC (official AION 2 Global website)",
+    "grade": "official",
+    "region": "global",
+    "publishedAt": "2026-10-04",
+    "retrievedAt": "2026-10-22T13:50:00Z",
+    "scope": "Single-faction servers, server pairing for cross-faction content, server selection order and the official server list.",
+    "notes": "The server list is continuously updated by NC; this site links it instead of copying it."
   }
 ]

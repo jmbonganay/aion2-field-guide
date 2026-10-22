@@ -1,0 +1,59 @@
+[
+  {
+    "id": "fact:pets-overview",
+    "subjectId": "system:pets",
+    "property": "officialOverview",
+    "value": [
+      "Companions that follow you",
+      "Can become rideable mounts",
+      "Give useful benefits such as auto-looting"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Pet section › headline (text in an image).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s one-line pet overview."
+  },
+  {
+    "id": "fact:pets-transfer",
+    "subjectId": "system:pets",
+    "property": "serverTransfer",
+    "value": "Pets and Genus Crystals move in a server transfer and are combined with those on the destination server; you choose which server’s Genus Insight to keep, and the original server’s is reset",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-qa",
+      "source:server-transfer-products"
+    ],
+    "evidence": "Server transfer Q&A › Pet and Genus Insight; products notice › Content & Systems.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:pets-special-duplicate",
+    "subjectId": "system:pets",
+    "property": "duplicateSpecialPet",
+    "value": "If you already own the same Special Pet on the destination server, you keep it there only and receive a Pet Reward Ticket",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-qa"
+    ],
+    "evidence": "Server transfer Q&A › Special Pets and Skins.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  }
+]

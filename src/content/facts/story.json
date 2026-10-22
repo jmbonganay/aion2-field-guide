@@ -1,0 +1,147 @@
+[
+  {
+    "id": "fact:lore-setting",
+    "subjectId": "guide:story-so-far",
+    "property": "setting",
+    "value": "Set 200 years after the original conflict, after the destruction of the Tower of Eternity; the Elyos and Asmodians face a newly empowered Balaur",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:ncsoft-aion2-global-launch"
+    ],
+    "evidence": "NC press release › Key Features › New Dramatic Storyline.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:lore-factions",
+    "subjectId": "guide:story-so-far",
+    "property": "factions",
+    "value": [
+      "Elyos",
+      "Asmodians",
+      "Balaur"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:ncsoft-aion2-global-launch",
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Press release › storyline; teaser › Factions and Lore sections.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:lore-tower",
+    "subjectId": "guide:story-so-far",
+    "property": "towerCollapse",
+    "value": "The AION Tower collapsed at the end of the Elyos–Asmodian War; with no barrier formed, a three-way conflict plunged the world into darkness, later called the Last War",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Lore › chapter one (both factions).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "The press release calls it the Tower of Eternity; the teaser’s Lore section calls it the AION Tower."
+  },
+  {
+    "id": "fact:lore-bulwark-elyos",
+    "subjectId": "guide:story-so-far",
+    "property": "elyseaBulwark",
+    "value": "After the Balaur descended on Elysea, the remaining Empyrean Lords raised the Bulwark between Eltnen and Interdika, isolating Elysea",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Lore › Elyos chapter two.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:lore-bulwark-asmodian",
+    "subjectId": "guide:story-so-far",
+    "property": "asmodaeBulwark",
+    "value": "After the Balaur surged into Asmodae, the Empyrean Lords raised a Bulwark between Morheim and Belluslan, sealing Asmodae away",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Lore › Asmodian chapter two.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:lore-sacrifice",
+    "subjectId": "guide:story-so-far",
+    "property": "bulwarkSacrifice",
+    "value": "Siel (Elyos side) and Israphel (Asmodian side) were already gone; five remaining Empyrean Lords spent the last of their power completing the Bulwark, and some perished",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Lore › chapter three (both factions).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:lore-dragon-lords",
+    "subjectId": "guide:story-so-far",
+    "property": "newDragonLords",
+    "value": [
+      "Ishtar — burned Poeta, beyond Elysea’s Bulwark",
+      "Fafnir — descended on Ishalgen, beyond Asmodae’s Bulwark"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Lore › chapter four (Elyos: Ishtar; Asmodians: Fafnir).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:lore-daeva",
+    "subjectId": "guide:story-so-far",
+    "property": "fateOfDaeva",
+    "value": "Beyond the Bulwark, Daeva were hunted: Ishtar used them to make Surana and raised twisted mutants; Fafnir tore their souls apart and trapped them in jewels (Fafnite)",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Lore › chapter five (both factions).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [
+    "Pet",
+    "Mounts",
+    "Genus Insight"
+  ],
+  "tags": [
+    "pets",
+    "mounts",
+    "genus",
+    "server transfer"
+  ],
+  "patch": null,
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T13:50:00Z",
+  "updatedAt": "2026-10-22T13:50:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:aion2-global-teaser",
+    "source:server-transfer-qa",
+    "source:server-transfer-products"
+  ],
+  "factIds": [
+    "fact:pets-overview",
+    "fact:pets-transfer",
+    "fact:pets-special-duplicate"
+  ],
+  "relatedIds": [
+    "guide:server-transfers"
+  ],
+  "unverified": [
+    "How to obtain pets and Pet Souls.",
+    "What Genus Insight does and how its progress works.",
+    "Which pets are mounts and what bonuses each pet gives."
+  ],
+  "id": "system:pets",
+  "slug": "pets",
+  "name": "Pets",
+  "summary": "What official sources confirm about pets: companions that follow you, double as mounts and help with things like auto-looting — and how they behave in a server transfer."
+}

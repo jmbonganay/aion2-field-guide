@@ -11,8 +11,9 @@ export function plural(count: number, one: string, many = `${one}s`): string {
 }
 
 export function formatFactValue(fact: { value: string | number | boolean | string[]; unit?: string }): string {
+  // Lists of short names read best with commas; lists of phrases with semicolons.
   const value = Array.isArray(fact.value)
-    ? fact.value.join(', ')
+    ? fact.value.join(fact.value.some((v) => v.split(' ').length > 3) ? '; ' : ', ')
     : typeof fact.value === 'number'
       ? fact.value.toLocaleString('en-US')
       : typeof fact.value === 'boolean'

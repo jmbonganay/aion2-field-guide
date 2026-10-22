@@ -1,0 +1,142 @@
+[
+  {
+    "id": "fact:urugugu-canyon-expedition",
+    "subjectId": "dungeon:urugugu-canyon",
+    "property": "category",
+    "value": "Expedition",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Expedition section › dungeon tabs (Krao Cave, Urugugu Canyon, Fire Temple, Draupnir).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:urugugu-canyon-boss",
+    "subjectId": "dungeon:urugugu-canyon",
+    "property": "boss",
+    "value": "Divine Auldor",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Expedition › Urugugu Canyon tab › BOSS label.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:urugugu-canyon-description",
+    "subjectId": "dungeon:urugugu-canyon",
+    "property": "officialDescription",
+    "value": "A sanctuary inside Tolbas Canyon, revered by a tribe as a sacred domain, where a divine bird summoned by draconic power is said to sleep",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Expedition › Urugugu Canyon tab (description in an image).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:urugugu-canyon-boss-description",
+    "subjectId": "dungeon:urugugu-canyon",
+    "property": "bossDescription",
+    "value": "A sacred bird from the Urugugu Tribe’s legends that wakes in response to Ishtar’s power and becomes the protector of the Aullaeu",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Expedition › Urugugu Canyon › boss detail panel.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:fire-temple-expedition",
+    "subjectId": "dungeon:fire-temple",
+    "property": "category",
+    "value": "Expedition",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Expedition section › dungeon tabs (Krao Cave, Urugugu Canyon, Fire Temple, Draupnir).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:fire-temple-boss",
+    "subjectId": "dungeon:fire-temple",
+    "property": "boss",
+    "value": "Kromede’s Desire",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Expedition › Fire Temple tab › BOSS label.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:fire-temple-description",
+    "subjectId": "dungeon:fire-temple",
+    "property": "officialDescription",
+    "value": "A temple inside a lava cavern where the gods are said to have hidden their treasures; past traps and guardians, an altar holds a sentient mirror",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Expedition › Fire Temple tab (description in an image).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:fire-temple-boss-description",
+    "subjectId": "dungeon:fire-temple",
+    "property": "bossDescription",
+    "value": "A mirror of desire that consumed Kromede and left only her remnants; within the Fire Temple, this shadow of desire lives on",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Expedition › Fire Temple › boss detail panel.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC’s description; not a quotation."
+  }
+]

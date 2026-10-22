@@ -41,3 +41,12 @@ describe('components', () => {
     expect(out).toContain('href="/"');
   });
 });
+
+describe('formatFactValue', () => {
+  it('joins names with commas and longer phrases with semicolons', async () => {
+    const { formatFactValue } = await import('@/lib/format');
+    expect(formatFactValue({ value: ['Elyos', 'Asmodians', 'Balaur'] })).toBe('Elyos, Asmodians, Balaur');
+    expect(formatFactValue({ value: ['In a village, not a dungeon', 'Not in a Legion at all'] })).toBe('In a village, not a dungeon; Not in a Legion at all');
+    expect(formatFactValue({ value: 2600, unit: 'item level' })).toBe('2,600 item level');
+  });
+});

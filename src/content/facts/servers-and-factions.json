@@ -1,0 +1,128 @@
+[
+  {
+    "id": "fact:mm-one-faction",
+    "subjectId": "guide:servers-and-factions",
+    "property": "factionsPerServer",
+    "value": "Each server holds only one faction",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-matchmaking"
+    ],
+    "evidence": "Matchmaking notice › opening paragraph.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:mm-paired",
+    "subjectId": "guide:servers-and-factions",
+    "property": "serverPairing",
+    "value": "Every Elyos server is paired with an Asmodian server, for a limited time",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-matchmaking"
+    ],
+    "evidence": "Matchmaking notice › What is Server Matchmaking?",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:mm-modes",
+    "subjectId": "guide:servers-and-factions",
+    "property": "crossFactionModes",
+    "value": [
+      "Abyss",
+      "Spacetime Rifts"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-matchmaking"
+    ],
+    "evidence": "Matchmaking notice › What is Server Matchmaking? (named as examples of cross-faction modes).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:mm-opponents",
+    "subjectId": "guide:servers-and-factions",
+    "property": "whoYouMeet",
+    "value": "In the Abyss and other cross-faction modes, opposing players come from your paired server",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-matchmaking"
+    ],
+    "evidence": "Matchmaking notice › What is Server Matchmaking? (Israphel/Siel example).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:mm-select-order",
+    "subjectId": "guide:servers-and-factions",
+    "property": "serverSelectionOrder",
+    "value": [
+      "Region",
+      "Faction",
+      "Server"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-matchmaking"
+    ],
+    "evidence": "Matchmaking notice › opening paragraph.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:mm-rotation",
+    "subjectId": "guide:servers-and-factions",
+    "property": "pairingChanges",
+    "value": "NC updates server pairings periodically to keep the factions balanced",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-matchmaking"
+    ],
+    "evidence": "Matchmaking notice › Will My Server Pairing Always Be the Same?",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:mm-transfer-scope",
+    "subjectId": "guide:servers-and-factions",
+    "property": "transferScope",
+    "value": "Server transfers are possible only between servers of the same faction and region",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products"
+    ],
+    "evidence": "Server transfer products notice › Server Transfer Service Guide.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  }
+]

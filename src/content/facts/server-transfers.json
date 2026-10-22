@@ -1,0 +1,369 @@
+[
+  {
+    "id": "fact:st-period",
+    "subjectId": "guide:server-transfers",
+    "property": "transferPeriod",
+    "value": "After maintenance on Oct. 13 (PDT) / Oct. 14 (CEST) until before maintenance on Oct. 27 (PDT) / Oct. 28 (CET): week one for Early Access servers, week two for Launch servers",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products",
+      "source:server-transfer-qa"
+    ],
+    "evidence": "Products notice › How to Use; Q&A › Server Transfer Period.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-where",
+    "subjectId": "guide:server-transfers",
+    "property": "whereToApply",
+    "value": "In-Game Shop > Server Transfer, during your region’s transfer hours",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products"
+    ],
+    "evidence": "Products notice › Available at; How to Use.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-cost",
+    "subjectId": "guide:server-transfers",
+    "property": "transferCost",
+    "value": [
+      "Base cost: 0 Quna (once per account)",
+      "Per character transferred: 0 Quna",
+      "Each extra character slot needed on the destination server: 1,000 Quna"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products"
+    ],
+    "evidence": "Products notice › Item Pricing Information.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-scope",
+    "subjectId": "guide:server-transfers",
+    "property": "allowedDestinations",
+    "value": "Only servers of the same faction in the same region; Early Access servers can transfer only to other Early Access servers",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products"
+    ],
+    "evidence": "Products notice › Server Transfer Service Guide.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-once",
+    "subjectId": "guide:server-transfers",
+    "property": "transfersPerAccount",
+    "value": "One transfer per account for the whole transfer period, from one server to one other server; any number of characters per transfer",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products"
+    ],
+    "evidence": "Products notice › Server Transfer Service Guide.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-level",
+    "subjectId": "guide:server-transfers",
+    "property": "minimumCharacterLevel",
+    "value": 10,
+    "unit": "or higher",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products"
+    ],
+    "evidence": "Products notice › Purchase Requirements.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-conditions",
+    "subjectId": "guide:server-transfers",
+    "property": "characterConditions",
+    "value": [
+      "In a village (not in the Abyss, a Spacetime Rift or a dungeon)",
+      "Not in a Legion, with no pending Legion application",
+      "No active Duty missions"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products"
+    ],
+    "evidence": "Products notice › Purchase Requirements.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-blockers",
+    "subjectId": "guide:server-transfers",
+    "property": "blockedByUnclaimedItems",
+    "value": [
+      "Items listed or awaiting collection on the Market, or unclaimed sale proceeds",
+      "Unclaimed items in Shop Storage, including the Founder’s Pack",
+      "Unclaimed mail on the transferring character"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products"
+    ],
+    "evidence": "Products notice › Purchase Conditions Related to Unclaimed Currency.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-capacity",
+    "subjectId": "guide:server-transfers",
+    "property": "serverTransferLimits",
+    "value": "Each server has transfer-in and transfer-out limits, updated every hour; transfers can close early, and a server with excessive requests may close to transfers permanently",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-limits",
+      "source:server-transfer-qa"
+    ],
+    "evidence": "Transfer limits notice; Q&A › limits apply even if you already have a character there.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-name",
+    "subjectId": "guide:server-transfers",
+    "property": "characterNameAfterTransfer",
+    "value": "Changed to @TemporaryName; you choose a new name at first login",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products",
+      "source:server-transfer-qa"
+    ],
+    "evidence": "Products notice › Purchase-Related Items; Q&A › character name.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-kina",
+    "subjectId": "guide:server-transfers",
+    "property": "kinaTransfer",
+    "value": "Kina in the Cube inventory and Character Storage moves with the character; Kina in Server Storage does not",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products",
+      "source:server-transfer-qa"
+    ],
+    "evidence": "Products notice › Currency.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-server-storage",
+    "subjectId": "guide:server-transfers",
+    "property": "serverStorage",
+    "value": "Items in Server Storage do not transfer; the destination keeps whichever Server Storage expansion count is higher",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products",
+      "source:server-transfer-qa"
+    ],
+    "evidence": "Products notice › Purchase-Related Items; Q&A › Server Storage.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-quna",
+    "subjectId": "guide:server-transfers",
+    "property": "qunaAndMileage",
+    "value": "Transferred and added to the amounts already on the destination server",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products",
+      "source:server-transfer-qa"
+    ],
+    "evidence": "Products notice › Currency; Q&A › Quna and Mileage.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-membership",
+    "subjectId": "guide:server-transfers",
+    "property": "membershipAndPass",
+    "value": "Membership moves and is combined with any on the destination server; the Daeva Pass moves with its progress intact",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products",
+      "source:server-transfer-qa"
+    ],
+    "evidence": "Products notice › Purchase-Related Items; Q&A › Membership, Daeva Pass.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-merged",
+    "subjectId": "guide:server-transfers",
+    "property": "combinedAndResetOnOrigin",
+    "value": [
+      "Titles",
+      "Achievements",
+      "Closet items (Skins)",
+      "Pets",
+      "Theostones"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products"
+    ],
+    "evidence": "Products notice › Content & Systems.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Combined with what you already have on the destination server, and reset on the original server."
+  },
+  {
+    "id": "fact:st-with-character",
+    "subjectId": "guide:server-transfers",
+    "property": "movesWithCharacter",
+    "value": [
+      "Wings",
+      "Arcana",
+      "Pantheon",
+      "Monolith",
+      "Empyrean Traces",
+      "Daevanion",
+      "Skills and Stigmas",
+      "Season Rank Points",
+      "Season Missions",
+      "Supply Requests",
+      "Content reward counts",
+      "Content tickets",
+      "Character Storage",
+      "Abyss Points"
+    ],
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-products",
+      "source:server-transfer-qa"
+    ],
+    "evidence": "Products notice › Server Transfer Items Summary; Q&A answers for each item.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-reward-counts",
+    "subjectId": "guide:server-transfers",
+    "property": "dungeonRewardProgress",
+    "value": "Remaining Cube Reward claims and attempts left until guaranteed rewards move with the character",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-qa"
+    ],
+    "evidence": "Q&A › Cube Reward claim counts.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-left-behind",
+    "subjectId": "guide:server-transfers",
+    "property": "charactersLeftBehind",
+    "value": "Characters you do not transfer lose access to the Pets and Skins that move with the transferred characters",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-qa"
+    ],
+    "evidence": "Q&A › transferring only some characters.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:st-tickets",
+    "subjectId": "guide:server-transfers",
+    "property": "duplicateRewardTickets",
+    "value": "A duplicate Special Pet gives a Pet Reward Ticket (refundable via Customer Support); a duplicate Skin gives a ticket for the 300 Quna Shop item; both expire at maintenance on Nov. 24 (PST) / Nov. 25 (CET)",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:server-transfer-qa",
+      "source:server-transfer-products"
+    ],
+    "evidence": "Q&A › Special Pets and Skins; Products notice › Purchase-Related Items.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:50:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  }
+]

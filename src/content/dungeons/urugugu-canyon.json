@@ -1,0 +1,44 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [
+    "Urugugu Canyon"
+  ],
+  "tags": [
+    "expedition",
+    "dungeon",
+    "boss"
+  ],
+  "patch": null,
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T13:50:00Z",
+  "updatedAt": "2026-10-22T13:50:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:aion2-global-teaser"
+  ],
+  "factIds": [
+    "fact:urugugu-canyon-expedition",
+    "fact:urugugu-canyon-boss",
+    "fact:urugugu-canyon-description",
+    "fact:urugugu-canyon-boss-description"
+  ],
+  "relatedIds": [
+    "dungeon:fire-temple",
+    "dungeon:krao-cave",
+    "dungeon:draupnir",
+    "guide:story-so-far"
+  ],
+  "unverified": [
+    "Entry requirements, group size and entry limits.",
+    "Rewards and drop chances.",
+    "Boss mechanics and phases.",
+    "Whether a Hard mode exists (the Oct. 20/21 update added Hard mode only to Krao Cave and Draupnir)."
+  ],
+  "id": "dungeon:urugugu-canyon",
+  "slug": "urugugu-canyon",
+  "name": "Urugugu Canyon",
+  "category": "Expedition",
+  "summary": "Urugugu Canyon is one of the four Expedition dungeons on NC’s official site. This page covers its setting and boss as NC describes them."
+}
