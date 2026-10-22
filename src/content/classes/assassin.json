@@ -1,0 +1,40 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [],
+  "tags": [
+    "class",
+    "assassin"
+  ],
+  "patch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T13:25:00Z",
+  "updatedAt": "2026-10-22T13:25:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:ncsoft-aion2-global-launch",
+    "source:aion2-global-teaser",
+    "source:patch-notes-2026-10-14",
+    "source:class-video-assassin"
+  ],
+  "factIds": [
+    "fact:global-class-count",
+    "fact:global-class-names",
+    "fact:assassin-official-description",
+    "fact:assassin-restricted-weapon-skin"
+  ],
+  "relatedIds": [
+    "guide:global-service-basics",
+    "class:sorcerer"
+  ],
+  "unverified": [
+    "The class’s party role and playstyle as stated by NC in text (the official description is a one-line flavour summary).",
+    "A complete skill list, skill levels, Specialties and Stigma options.",
+    "Any build, rotation or stat priority. These need documented in-game testing before they can be recommended."
+  ],
+  "id": "class:assassin",
+  "slug": "assassin",
+  "name": "Assassin",
+  "summary": "What official Global sources confirm about the Assassin today: NC's own description of the class, its class-restricted weapon type."
+}

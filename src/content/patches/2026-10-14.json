@@ -9,7 +9,8 @@
     "skill:sorcerer-fire-wall",
     "skill:sorcerer-cold-storm",
     "skill:sorcerer-bittercold-wind",
-    "system:substance-morph"
+    "system:substance-morph",
+    "skill:spiritmaster-summon-ancient-spirit"
   ],
-  "summary": "Fixed Sorcerer Fire Wall, Cold Storm and Bittercold Wind issues when fighting at a difference in elevation and when another player applied a stronger effect; moved two items into Substance Morph during the server transfer period."
+  "summary": "Fixed a Spiritmaster Summon: Ancient Spirit issue and Sorcerer Fire Wall, Cold Storm and Bittercold Wind issues when fighting at a difference in elevation and when another player applied a stronger effect; moved two items into Substance Morph during the server transfer period."
 }

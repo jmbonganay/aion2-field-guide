@@ -1,0 +1,281 @@
+[
+  {
+    "id": "fact:gladiator-official-description",
+    "subjectId": "class:gladiator",
+    "property": "officialDescription",
+    "value": "A front-line fighter who wields a huge blade and storms through the battlefield",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Official teaser site › Classes carousel › Gladiator panel (one-line description shown in an image).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC's one-line class description; not a quotation."
+  },
+  {
+    "id": "fact:gladiator-restricted-weapon-skin",
+    "subjectId": "class:gladiator",
+    "property": "classRestrictedWeaponSkinType",
+    "value": "Greatsword",
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes, Promotion › New Weapon Skin: Halloween Night (Skin: Greatsword) is available only to Gladiator class players.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:templar-official-description",
+    "subjectId": "class:templar",
+    "property": "officialDescription",
+    "value": "A sworn guardian who holds the line behind an unbreakable shield",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Official teaser site › Classes carousel › Templar panel (one-line description shown in an image).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC's one-line class description; not a quotation."
+  },
+  {
+    "id": "fact:templar-restricted-weapon-skin",
+    "subjectId": "class:templar",
+    "property": "classRestrictedWeaponSkinType",
+    "value": "Longsword",
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes, Promotion › New Weapon Skin: Halloween Night (Skin: Longsword) is available only to Templar class players.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:assassin-official-description",
+    "subjectId": "class:assassin",
+    "property": "officialDescription",
+    "value": "A stealthy killer who strikes from the shadows without being seen",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Official teaser site › Classes carousel › Assassin panel (one-line description shown in an image).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC's one-line class description; not a quotation."
+  },
+  {
+    "id": "fact:assassin-restricted-weapon-skin",
+    "subjectId": "class:assassin",
+    "property": "classRestrictedWeaponSkinType",
+    "value": "Dagger",
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes, Promotion › New Weapon Skin: Halloween Night (Skin: Dagger) is available only to Assassin class players.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:ranger-official-description",
+    "subjectId": "class:ranger",
+    "property": "officialDescription",
+    "value": "A patient hunter who controls the fight with precise, decisive shots",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Official teaser site › Classes carousel › Ranger panel (one-line description shown in an image).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC's one-line class description; not a quotation."
+  },
+  {
+    "id": "fact:ranger-restricted-weapon-skin",
+    "subjectId": "class:ranger",
+    "property": "classRestrictedWeaponSkinType",
+    "value": "Bow",
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes, Promotion › New Weapon Skin: Halloween Night (Skin: Bow) is available only to Ranger class players.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:chanter-official-description",
+    "subjectId": "class:chanter",
+    "property": "officialDescription",
+    "value": "A protector who strengthens allies with divine blessings and steady defence",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Official teaser site › Classes carousel › Chanter panel (one-line description shown in an image).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC's one-line class description; not a quotation."
+  },
+  {
+    "id": "fact:chanter-restricted-weapon-skin",
+    "subjectId": "class:chanter",
+    "property": "classRestrictedWeaponSkinType",
+    "value": "Staff",
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes, Promotion › New Weapon Skin: Halloween Night (Skin: Staff) is available only to Chanter class players.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:cleric-official-description",
+    "subjectId": "class:cleric",
+    "property": "officialDescription",
+    "value": "A holy healer who keeps allies alive with the power of light",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Official teaser site › Classes carousel › Cleric panel (one-line description shown in an image).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC's one-line class description; not a quotation."
+  },
+  {
+    "id": "fact:cleric-restricted-weapon-skin",
+    "subjectId": "class:cleric",
+    "property": "classRestrictedWeaponSkinType",
+    "value": "Mace",
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes, Promotion › New Weapon Skin: Halloween Night (Skin: Mace) is available only to Cleric class players.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:spiritmaster-official-description",
+    "subjectId": "class:spiritmaster",
+    "property": "officialDescription",
+    "value": "A summoner of spirits who fights with elemental power",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Official teaser site › Classes carousel › Spiritmaster panel (one-line description shown in an image).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null,
+    "context": "Paraphrased from NC's one-line class description; not a quotation."
+  },
+  {
+    "id": "fact:spiritmaster-restricted-weapon-skin",
+    "subjectId": "class:spiritmaster",
+    "property": "classRestrictedWeaponSkinType",
+    "value": "Orb",
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes, Promotion › New Weapon Skin: Halloween Night (Skin: Orb) is available only to Spiritmaster class players.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:spinning-strike-effect",
+    "subjectId": "skill:chanter-spinning-strike",
+    "property": "fixSkillEffectDisplay",
+    "value": "Skill effects now display correctly",
+    "region": "global",
+    "effectivePatch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-21"
+    ],
+    "evidence": "Oct. 20/21 patch notes › Class Changes › Chanter › Spinning Strike.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "fact:ancient-spirit-low-level",
+    "subjectId": "skill:spiritmaster-summon-ancient-spirit",
+    "property": "fixLowLevelSummonSkills",
+    "value": "Ancient Spirit summons at skill level 15 or below now use their skills properly",
+    "region": "global",
+    "effectivePatch": "Oct. 13 (PDT) / Oct. 14 (CEST)",
+    "sourceIds": [
+      "source:patch-notes-2026-10-14"
+    ],
+    "evidence": "Oct. 13/14 patch notes › Class Changes › Spiritmaster › Summon: Ancient Spirit.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:25:00Z",
+    "verification": "confirmed",
+    "verifiedBy": null,
+    "lastVerifiedAt": null
+  }
+]

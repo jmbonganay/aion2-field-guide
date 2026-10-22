@@ -1,0 +1,28 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [],
+  "tags": [
+    "chanter",
+    "skill"
+  ],
+  "patch": null,
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T13:25:00Z",
+  "updatedAt": "2026-10-22T13:25:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:patch-notes-2026-10-21"
+  ],
+  "factIds": [
+    "fact:spinning-strike-effect"
+  ],
+  "relatedIds": [],
+  "unverified": [],
+  "id": "skill:chanter-spinning-strike",
+  "slug": "chanter-spinning-strike",
+  "name": "Spinning Strike",
+  "classId": "class:chanter",
+  "summary": "A Chanter skill named in the Oct. 20/21 patch notes, which fixed how its effects were displayed."
+}

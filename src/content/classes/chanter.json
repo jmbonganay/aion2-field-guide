@@ -1,0 +1,42 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [],
+  "tags": [
+    "class",
+    "chanter"
+  ],
+  "patch": "Oct. 20 (PDT) / Oct. 21 (CEST)",
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T13:25:00Z",
+  "updatedAt": "2026-10-22T13:25:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:ncsoft-aion2-global-launch",
+    "source:aion2-global-teaser",
+    "source:patch-notes-2026-10-14",
+    "source:class-video-chanter",
+    "source:patch-notes-2026-10-21"
+  ],
+  "factIds": [
+    "fact:global-class-count",
+    "fact:global-class-names",
+    "fact:chanter-official-description",
+    "fact:chanter-restricted-weapon-skin",
+    "fact:spinning-strike-effect"
+  ],
+  "relatedIds": [
+    "guide:global-service-basics",
+    "class:sorcerer"
+  ],
+  "unverified": [
+    "The class’s party role and playstyle as stated by NC in text (the official description is a one-line flavour summary).",
+    "A complete skill list, skill levels, Specialties and Stigma options.",
+    "Any build, rotation or stat priority. These need documented in-game testing before they can be recommended."
+  ],
+  "id": "class:chanter",
+  "slug": "chanter",
+  "name": "Chanter",
+  "summary": "What official Global sources confirm about the Chanter today: NC's own description of the class, its class-restricted weapon type, and the skill fix shipped since launch."
+}

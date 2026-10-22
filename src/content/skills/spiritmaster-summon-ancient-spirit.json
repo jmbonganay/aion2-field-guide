@@ -1,0 +1,29 @@
+{
+  "region": "global",
+  "status": "in_review",
+  "aliases": [],
+  "tags": [
+    "spiritmaster",
+    "skill",
+    "summon"
+  ],
+  "patch": null,
+  "author": "Claude (AI research draft)",
+  "reviewedBy": null,
+  "createdAt": "2026-10-22T13:25:00Z",
+  "updatedAt": "2026-10-22T13:25:00Z",
+  "lastVerifiedAt": null,
+  "sourceIds": [
+    "source:patch-notes-2026-10-14"
+  ],
+  "factIds": [
+    "fact:ancient-spirit-low-level"
+  ],
+  "relatedIds": [],
+  "unverified": [],
+  "id": "skill:spiritmaster-summon-ancient-spirit",
+  "slug": "spiritmaster-summon-ancient-spirit",
+  "name": "Summon: Ancient Spirit",
+  "classId": "class:spiritmaster",
+  "summary": "A Spiritmaster summoning skill named in the Oct. 13/14 patch notes, which fixed how low-level Ancient Spirit summons used their skills."
+}

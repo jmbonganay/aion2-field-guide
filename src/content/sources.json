@@ -121,5 +121,101 @@
     "publishedAt": "2026-09-30",
     "retrievedAt": "2026-10-22T10:30:00Z",
     "scope": "Business model, platforms, languages, server regions, KR/TW progress, controller and platform support for the Global service."
+  },
+  {
+    "id": "source:aion2-global-teaser",
+    "title": "AION 2 — official Global teaser site (Classes section)",
+    "url": "https://aion2.plaync.com/en-us/conts/teaser",
+    "publisher": "NC (official AION 2 Global website)",
+    "grade": "official",
+    "region": "global",
+    "publishedAt": null,
+    "retrievedAt": "2026-10-22T13:25:00Z",
+    "scope": "Official one-line description of each class, and links to the official class videos.",
+    "notes": "Class descriptions are rendered as images in the Classes carousel; read visually on 2026-10-22 and paraphrased, not copied."
+  },
+  {
+    "id": "source:class-video-gladiator",
+    "title": "[AION 2] Classes - Gladiator",
+    "url": "https://www.youtube.com/watch?v=ndri5XpnRK4",
+    "publisher": "AION 2 Official (YouTube)",
+    "grade": "official",
+    "region": "unspecified",
+    "publishedAt": "2026-05-27",
+    "retrievedAt": "2026-10-22T13:25:00Z",
+    "scope": "Official gameplay video for the Gladiator class, linked from the official teaser site.",
+    "notes": "Short gameplay video without narration or a text description; cited as a viewing link only, not as evidence for specific claims."
+  },
+  {
+    "id": "source:class-video-templar",
+    "title": "[AION 2] Classes - Templar",
+    "url": "https://www.youtube.com/watch?v=Zs6HnL2N5Hk",
+    "publisher": "AION 2 Official (YouTube)",
+    "grade": "official",
+    "region": "unspecified",
+    "publishedAt": "2026-05-27",
+    "retrievedAt": "2026-10-22T13:25:00Z",
+    "scope": "Official gameplay video for the Templar class, linked from the official teaser site.",
+    "notes": "Short gameplay video without narration or a text description; cited as a viewing link only, not as evidence for specific claims."
+  },
+  {
+    "id": "source:class-video-assassin",
+    "title": "[AION 2] Classes - Assassin",
+    "url": "https://www.youtube.com/watch?v=jUW24SLKK3I",
+    "publisher": "AION 2 Official (YouTube)",
+    "grade": "official",
+    "region": "unspecified",
+    "publishedAt": "2026-05-27",
+    "retrievedAt": "2026-10-22T13:25:00Z",
+    "scope": "Official gameplay video for the Assassin class, linked from the official teaser site.",
+    "notes": "Short gameplay video without narration or a text description; cited as a viewing link only, not as evidence for specific claims."
+  },
+  {
+    "id": "source:class-video-ranger",
+    "title": "[AION 2] Classes - Ranger",
+    "url": "https://www.youtube.com/watch?v=C6INRqEqv3Y",
+    "publisher": "AION 2 Official (YouTube)",
+    "grade": "official",
+    "region": "unspecified",
+    "publishedAt": "2026-05-27",
+    "retrievedAt": "2026-10-22T13:25:00Z",
+    "scope": "Official gameplay video for the Ranger class, linked from the official teaser site.",
+    "notes": "Short gameplay video without narration or a text description; cited as a viewing link only, not as evidence for specific claims."
+  },
+  {
+    "id": "source:class-video-chanter",
+    "title": "[AION 2] Classes - Chanter",
+    "url": "https://www.youtube.com/watch?v=rtOt3KvmYCI",
+    "publisher": "AION 2 Official (YouTube)",
+    "grade": "official",
+    "region": "unspecified",
+    "publishedAt": "2026-05-27",
+    "retrievedAt": "2026-10-22T13:25:00Z",
+    "scope": "Official gameplay video for the Chanter class, linked from the official teaser site.",
+    "notes": "Short gameplay video without narration or a text description; cited as a viewing link only, not as evidence for specific claims."
+  },
+  {
+    "id": "source:class-video-cleric",
+    "title": "[AION 2] Classes - Cleric",
+    "url": "https://www.youtube.com/watch?v=RU-4yiNNnY0",
+    "publisher": "AION 2 Official (YouTube)",
+    "grade": "official",
+    "region": "unspecified",
+    "publishedAt": "2026-05-27",
+    "retrievedAt": "2026-10-22T13:25:00Z",
+    "scope": "Official gameplay video for the Cleric class, linked from the official teaser site.",
+    "notes": "Short gameplay video without narration or a text description; cited as a viewing link only, not as evidence for specific claims."
+  },
+  {
+    "id": "source:class-video-spiritmaster",
+    "title": "[AION 2] Classes - Spiritmaster",
+    "url": "https://www.youtube.com/watch?v=LJq1QGRJSLI",
+    "publisher": "AION 2 Official (YouTube)",
+    "grade": "official",
+    "region": "unspecified",
+    "publishedAt": "2026-05-27",
+    "retrievedAt": "2026-10-22T13:25:00Z",
+    "scope": "Official gameplay video for the Spiritmaster class, linked from the official teaser site.",
+    "notes": "Short gameplay video without narration or a text description; cited as a viewing link only, not as evidence for specific claims."
   }
 ]

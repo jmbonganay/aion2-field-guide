@@ -11,7 +11,8 @@
     "system:ariel-daevanion-board",
     "system:substance-morph",
     "skill:sorcerer-cold-storm",
-    "skill:sorcerer-fire-wall"
+    "skill:sorcerer-fire-wall",
+    "skill:chanter-spinning-strike"
   ],
-  "summary": "Added Expedition Hard mode to Krao Cave and Draupnir, the Ariel Daevanion Board and Ariel Fragment conversions in Substance Morph; fixed Sorcerer Cold Storm and Fire Wall damage issues. Live from the start of maintenance (per the maintenance notice)."
+  "summary": "Added Expedition Hard mode to Krao Cave and Draupnir, the Ariel Daevanion Board and Ariel Fragment conversions in Substance Morph; fixed Sorcerer Cold Storm and Fire Wall damage issues and a Chanter Spinning Strike display issue. Live from the start of maintenance (per the maintenance notice)."
 }
