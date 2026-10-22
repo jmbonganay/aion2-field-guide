@@ -138,5 +138,5 @@ After drafting, every cited source was re-fetched live and each fact was checked
 - **Evidence:** Server Transfer Q&A, Server Transfer Products Info, Advance Notice of Server Transfer Limits, New Server and Matchmaking Information (official notices); the official teaser site's Lore, Expedition, Factions and Pet sections (text in images, read visually and paraphrased); the NC press release (setting).
 - **Checks:** 29/29 text-sourced facts matched automatically; image-sourced facts checked visually. One draft error caught and fixed before review: an Asmodian region name had been guessed from a cut-off panel ("Beluslan"); re-captured at full width, the official spelling is "Belluslan".
 - **Time-sensitive:** the server transfer guide describes the period ending at the Oct. 27 (PDT) / Oct. 28 (CET) maintenance.
-- **Not done:** boss names for Krao Cave (Ultimate Berk) and Draupnir (Transcendent Bakarma) are not yet added to those published pages (would require re-review).
+- **Follow-up done:** boss names and descriptions for Krao Cave (Ultimate Berk) and Draupnir (Transcendent Bakarma), plus each dungeon's official setting, added and re-approved by jmbonganay on 2026-10-22.
 - **Human review:** all six approved by jmbonganay on 2026-10-22.

@@ -138,5 +138,111 @@
     "verifiedBy": "jmbonganay",
     "lastVerifiedAt": "2026-10-22T13:56:33Z",
     "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:krao-cave-boss",
+    "subjectId": "dungeon:krao-cave",
+    "property": "boss",
+    "value": "Ultimate Berk",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Expedition › Krao Cave tab › BOSS label.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:58:00Z",
+    "verification": "confirmed",
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T14:11:35Z"
+  },
+  {
+    "id": "fact:krao-cave-description",
+    "subjectId": "dungeon:krao-cave",
+    "property": "officialDescription",
+    "value": "A cavern where a legacy of war lay sealed; greed broke the seal and, with the experiment subject Berk, an old calamity woke again — so the Daevas send a strike force to end it",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Expedition › Krao Cave tab (description in an image).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:58:00Z",
+    "verification": "confirmed",
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T14:11:35Z",
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:krao-cave-boss-description",
+    "subjectId": "dungeon:krao-cave",
+    "property": "bossDescription",
+    "value": "Created as a weapon of war, Berk kept evolving inside his sealed prison until he escaped all control and became uncontrollable power itself",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Expedition › Krao Cave › boss detail panel.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:58:00Z",
+    "verification": "confirmed",
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T14:11:35Z",
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:draupnir-boss",
+    "subjectId": "dungeon:draupnir",
+    "property": "boss",
+    "value": "Transcendent Bakarma",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Expedition › Draupnir tab › BOSS label.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:58:00Z",
+    "verification": "confirmed",
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T14:11:36Z"
+  },
+  {
+    "id": "fact:draupnir-description",
+    "subjectId": "dungeon:draupnir",
+    "property": "officialDescription",
+    "value": "Beyond a shattered portal, Draupnir Cave is being swallowed by an unknown dimension, where Bakarma absorbs an alien, corrupting power and is reborn at its edge as a “new Dragon Lord”",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Expedition › Draupnir tab (description in an image).",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:58:00Z",
+    "verification": "confirmed",
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T14:11:36Z",
+    "context": "Paraphrased from NC’s description; not a quotation."
+  },
+  {
+    "id": "fact:draupnir-boss-description",
+    "subjectId": "dungeon:draupnir",
+    "property": "bossDescription",
+    "value": "Having passed through the rift between dimensions and shed his mortal form, Bakarma is reborn as freedom incarnate, roaming the dimensions without limits",
+    "region": "global",
+    "effectivePatch": null,
+    "sourceIds": [
+      "source:aion2-global-teaser"
+    ],
+    "evidence": "Teaser › Expedition › Draupnir › boss detail panel.",
+    "capturedBy": "Claude (AI research assistant)",
+    "capturedAt": "2026-10-22T13:58:00Z",
+    "verification": "confirmed",
+    "verifiedBy": "jmbonganay",
+    "lastVerifiedAt": "2026-10-22T14:11:36Z",
+    "context": "Paraphrased from NC’s description; not a quotation."
   }
 ]

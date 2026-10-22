@@ -14,11 +14,12 @@
   "author": "Claude (AI research draft)",
   "reviewedBy": "jmbonganay",
   "createdAt": "2026-10-22T10:30:00Z",
-  "updatedAt": "2026-10-22T10:30:00Z",
-  "lastVerifiedAt": "2026-10-22T13:10:24Z",
+  "updatedAt": "2026-10-22T13:58:00Z",
+  "lastVerifiedAt": "2026-10-22T14:11:36Z",
   "sourceIds": [
     "source:patch-notes-2026-10-21",
-    "source:maintenance-2026-10-21"
+    "source:maintenance-2026-10-21",
+    "source:aion2-global-teaser"
   ],
   "factIds": [
     "fact:draupnir-hard-added",
@@ -30,18 +31,23 @@
     "fact:draupnir-hard-ariel-fragment",
     "fact:draupnir-hard-kina",
     "fact:draupnir-hard-unique-materials",
-    "fact:draupnir-hard-achievements"
+    "fact:draupnir-hard-achievements",
+    "fact:draupnir-boss",
+    "fact:draupnir-description",
+    "fact:draupnir-boss-description"
   ],
   "relatedIds": [
     "dungeon:krao-cave",
     "system:ariel-daevanion-board",
     "item:ariel-fragment-bound",
-    "item:philosophers-stone-revelation-bound"
+    "item:philosophers-stone-revelation-bound",
+    "dungeon:urugugu-canyon",
+    "dungeon:fire-temple"
   ],
   "unverified": [
     "Normal-mode entry requirements and rewards.",
     "Group size, entry location and entry limits for either difficulty.",
-    "Boss names and mechanics, and what happens when the Frenzy timer runs out.",
+    "Boss mechanics, and what happens when the Frenzy timer runs out.",
     "Drop chances for Hard mode rewards, and how many Ariel Fragments each clear gives.",
     "Which Ariel Fragment this dungeon awards (the notes say it varies by dungeon)."
   ],
@@ -49,5 +55,5 @@
   "slug": "draupnir",
   "name": "Draupnir",
   "category": "Expedition",
-  "summary": "Draupnir gained an Expedition Hard mode in the Oct. 20/21 update. This page covers its Hard mode entry rule, limits and rewards as stated in the official patch notes."
+  "summary": "Draupnir gained an Expedition Hard mode in the Oct. 20/21 update. This page covers its boss and setting, and its Hard mode entry rule, limits and rewards, from official sources."
 }
